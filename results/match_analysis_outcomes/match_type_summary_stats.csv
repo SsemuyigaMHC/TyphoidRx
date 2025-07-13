@@ -1,0 +1,6 @@
+,Predicted_Treatment_Duration,Predicted_Treatment_Duration,Predicted_Treatment_Duration,Predicted_Resistance_Proxy_Score,Predicted_Resistance_Proxy_Score,Predicted_Resistance_Proxy_Score,Original_Treatment_Duration,Original_Treatment_Duration,Original_Treatment_Duration,Treatment_Outcome,Treatment_Outcome,Treatment_Outcome
+,mean,std,count,mean,std,count,mean,std,count,mean,std,count
+Match_Type,,,,,,,,,,,,
+No Match,9.99,2.54,461,9.1,3.77,461,9.78,2.88,461,0.13,0.34,461
+Top1 Match,9.98,2.72,482,9.09,3.75,482,9.9,3.03,482,0.89,0.32,482
+Top2 Match,9.82,2.68,353,8.55,4.09,353,9.84,2.88,353,0.61,0.49,353

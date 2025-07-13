@@ -1,0 +1,4 @@
+Actual_Drug,Patient_Count,Mean_Top1_Prob,Mean_Treatment_Duration,Mean_Resistance_Proxy,Success_Rate
+Amoxicillin,437,0.592,9.891,9.149,53.776
+Azithromycin,465,0.603,10.333,9.511,58.495
+Ceftriaxone,394,0.531,9.523,8.059,49.492

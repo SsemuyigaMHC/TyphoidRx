@@ -1,0 +1,6 @@
+CONFUSION MATRIX: Top2 Drug vs Actual Drug (Text Format)
+
+              Amoxicillin  Azithromycin  Ceftriaxone
+Amoxicillin           143           100          194
+Azithromycin          168            78          219
+Ceftriaxone           120           142          132

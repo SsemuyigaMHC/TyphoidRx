@@ -1,0 +1,4 @@
+ Treatment Discrepancy Summary
+Total discrepant cases: 814
+Cases where model's Top1 outperformed actual drug: 814 (100.00%)
+High-confidence case studies saved: 10 (ChangeProb > 0.15)

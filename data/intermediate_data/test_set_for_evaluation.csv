@@ -1,0 +1,1297 @@
+Patient ID,Age,Gender,Symptoms Severity,Hemoglobin (g/dL),Platelet Count,Blood Culture Bacteria,Urine Culture Bacteria,Calcium (mg/dL),Potassium (mmol/L),Treatment Duration,Treatment Outcome,Current Medication
+4094,21,0,High,14.2,180288,Unknown,-,9.1,3.5,7.0,0.0,Amoxicillin
+5388,35,1,High,11.3,228269,Salmonella typhi,Klebsiella pneumoniae,8.1,4.2,12.0,1.0,Azithromycin
+5420,24,1,Unknown,13.6,145376,Unknown,-,8.3,4.5,9.0,1.0,Amoxicillin
+623,18,0,Moderate,11.7,228923,Salmonella typhi,Escherichia coli,8.7,4.2,10.0,0.0,Azithromycin
+2475,52,1,High,12.6,179472,Staphylococcus,Klebsiella pneumoniae,9.0,4.7,12.0,0.0,Azithromycin
+4739,50,1,Unknown,12.6,171477,Staphylococcus,Klebsiella pneumoniae,9.9,4.5,10.0,1.0,Ceftriaxone
+4261,32,1,Low,10.5,130848,Salmonella typhi,-,9.5,4.5,9.0,0.0,Ceftriaxone
+4345,41,0,Low,14.9,282074,Staphylococcus,Klebsiella pneumoniae,9.1,4.9,11.0,0.0,Azithromycin
+3362,65,0,High,10.3,220353,Salmonella typhi,Klebsiella pneumoniae,8.5,10.0447226,8.0,1.0,Amoxicillin
+3054,64,1,Low,11.8,218056,Escherichia coli,-,8.6,4.3,14.0,1.0,Azithromycin
+1303,24,1,Low,13.6,209748,Salmonella typhi,Escherichia coli,9.5,4.7,11.0,1.0,Ceftriaxone
+1756,31,0,Low,10.6,251934,Staphylococcus,Escherichia coli,9.8,4.1,8.0,0.0,Azithromycin
+4395,21,0,Moderate,21.6595274,214135,Escherichia coli,-,8.5,4.1,7.0,0.0,Amoxicillin
+1759,29,1,High,12.7,184020,Salmonella typhi,Klebsiella pneumoniae,8.3,3.6,8.0,1.0,Amoxicillin
+2117,53,1,Unknown,14.6,128488,Escherichia coli,Klebsiella pneumoniae,9.8,4.7,9.0,0.0,Azithromycin
+3373,19,0,High,12.1,254478,Staphylococcus,Escherichia coli,8.2,3.8,12.0,1.0,Azithromycin
+5746,58,0,Moderate,24.03381488,193798,Staphylococcus,Klebsiella pneumoniae,8.6,3.7,10.0,0.0,Azithromycin
+3375,67,0,Moderate,11.7,247264,Salmonella typhi,Klebsiella pneumoniae,8.9,4.6,8.0,0.0,Ceftriaxone
+5732,40,1,Low,11.9,191388,Escherichia coli,-,8.9,4.4,10.0,1.0,Amoxicillin
+1599,63,1,Low,13.1,255927,Salmonella typhi,Escherichia coli,9.5,4.5,15.0,1.0,Amoxicillin
+594,21,0,High,14.2,180288,Salmonella typhi,-,9.1,3.5,7.0,0.0,Amoxicillin
+3268,36,0,Low,13.1,195874,Staphylococcus,-,9.0,4.0,13.0,0.0,Ceftriaxone
+1018,25,1,Unknown,14.9,280195,Staphylococcus,Escherichia coli,8.6,4.9,9.0,1.0,Azithromycin
+4618,32,1,Low,10.5,256889,Staphylococcus,Klebsiella pneumoniae,21.06479927,4.2,10.0,1.0,Amoxicillin
+886,42,1,High,11.5,120681,Escherichia coli,-,8.8,8.492940647,12.0,0.0,Ceftriaxone
+359,29,0,Low,12.6,250358,Escherichia coli,Klebsiella pneumoniae,9.0,4.6,7.0,1.0,Ceftriaxone
+5197,22,1,Moderate,12.2,170104,Staphylococcus,Escherichia coli,8.7,4.1,14.0,1.0,Amoxicillin
+1479,29,0,High,14.1,286194,Escherichia coli,Klebsiella pneumoniae,9.2,3.7,7.0,1.0,Ceftriaxone
+4375,67,0,Moderate,11.7,247264,Salmonella typhi,Klebsiella pneumoniae,8.9,4.6,8.0,0.0,Ceftriaxone
+2091,42,1,Low,11.3,175743,Staphylococcus,-,8.9,4.5,9.0,0.0,Amoxicillin
+4918,61,1,High,14.0,251573,Unknown,Escherichia coli,9.5,3.7,13.0,0.0,Ceftriaxone
+3731,31,0,Low,11.8,259855,Escherichia coli,Klebsiella pneumoniae,9.1,3.9,7.0,1.0,Ceftriaxone
+2510,24,1,Moderate,13.2,162206,Escherichia coli,Klebsiella pneumoniae,9.3,4.2,6.0,1.0,Ceftriaxone
+4153,22,0,High,10.2,171452,Escherichia coli,Klebsiella pneumoniae,8.4,3.7,10.0,1.0,Ceftriaxone
+3144,58,1,Moderate,13.6,250807,Escherichia coli,-,8.9,3.7,14.0,0.0,Ceftriaxone
+1038,55,1,Unknown,15.0,191311,Salmonella typhi,Escherichia coli,9.0,4.7,10.0,1.0,Ceftriaxone
+4637,68,0,Low,13.9,173171,Escherichia coli,Escherichia coli,8.7,4.1,9.0,1.0,Ceftriaxone
+4542,58,1,Unknown,12.0,179443,Escherichia coli,Escherichia coli,9.5,4.1,9.0,1.0,Ceftriaxone
+1179,42,1,High,11.4,225541,Unknown,Escherichia coli,9.7,4.9,14.0,1.0,Amoxicillin
+2690,26,1,Moderate,13.7,159499,Escherichia coli,-,10.0,4.5,10.0,0.0,Ceftriaxone
+5458,36,1,High,14.9,270984,Escherichia coli,-,9.5,3.7,15.0,0.0,Amoxicillin
+4197,22,1,Moderate,12.2,170104,Unknown,Escherichia coli,8.7,4.1,14.0,1.0,Amoxicillin
+1152,29,0,Low,11.7,257674,Unknown,-,8.3,4.2,8.0,1.0,Amoxicillin
+1413,68,0,Low,13.0,168405,Escherichia coli,Escherichia coli,8.9,4.4,10.0,1.0,Azithromycin
+4658,70,1,Low,14.0,283006,Staphylococcus,Klebsiella pneumoniae,9.3,4.2,8.0,0.0,Azithromycin
+1107,42,0,Moderate,23.90470063,223968,Unknown,Klebsiella pneumoniae,9.9,4.7,15.0,1.0,Ceftriaxone
+5611,55,0,High,14.4,241787,Escherichia coli,Escherichia coli,8.5,4.6,14.0,0.0,Ceftriaxone
+4674,42,0,Moderate,14.7,298403,Salmonella typhi,-,8.4,4.7,6.0,1.0,Amoxicillin
+1818,43,1,High,12.3,227911,Unknown,Escherichia coli,9.2,4.5,8.0,0.0,Azithromycin
+82,40,0,Moderate,22.43908888,123716,Escherichia coli,-,9.2,4.0,7.0,1.0,Ceftriaxone
+2924,21,1,Low,13.7,234102,Escherichia coli,Escherichia coli,8.9,3.7,5.0,0.0,Amoxicillin
+3137,68,0,Low,13.9,173171,Escherichia coli,Escherichia coli,8.7,4.1,9.0,1.0,Ceftriaxone
+5210,57,1,High,11.2,152117,Escherichia coli,Escherichia coli,9.3,4.2,15.0,1.0,Azithromycin
+5527,31,1,Unknown,10.1,177467,Staphylococcus,Escherichia coli,9.2,4.6,12.0,0.0,Ceftriaxone
+2809,51,0,Moderate,14.0,174907,Staphylococcus,-,9.0,4.0,15.0,0.0,Azithromycin
+1878,62,0,Low,11.0,153088,Salmonella typhi,Escherichia coli,9.8,4.6,5.0,0.0,Amoxicillin
+1578,53,1,Low,12.1,158382,Salmonella typhi,-,8.5,3.7,14.0,1.0,Azithromycin
+2755,23,0,Moderate,11.1,195391,Escherichia coli,-,8.3,4.9,5.0,1.0,Ceftriaxone
+4901,53,1,Moderate,10.9,222298,Staphylococcus,Klebsiella pneumoniae,1.472485972,4.8,13.0,0.0,Azithromycin
+4443,38,1,Moderate,10.2,122498,Staphylococcus,-,9.1,4.6,10.0,0.0,Ceftriaxone
+1753,58,1,Moderate,13.0,218991,Unknown,Klebsiella pneumoniae,8.1,4.2,5.0,0.0,Ceftriaxone
+5499,19,0,Moderate,10.7,281796,Staphylococcus,Escherichia coli,8.5,4.9,14.0,1.0,Azithromycin
+380,63,0,Low,11.5,174242,Staphylococcus,-,9.3,3.8,7.0,1.0,Azithromycin
+5057,40,1,High,10.8,143215,Staphylococcus,Escherichia coli,9.0,3.8,7.0,0.0,Amoxicillin
+5639,41,1,Low,11.1,275734,Salmonella typhi,Klebsiella pneumoniae,9.1,4.7,8.0,1.0,Amoxicillin
+2239,50,1,Low,12.6,171477,Staphylococcus,Klebsiella pneumoniae,9.9,13.41935632,10.0,1.0,Ceftriaxone
+1381,29,0,Moderate,13.8,178039,Staphylococcus,Escherichia coli,9.5,4.6,10.0,0.0,Amoxicillin
+3401,53,1,Moderate,10.9,222298,Staphylococcus,Klebsiella pneumoniae,8.6,4.8,13.0,0.0,Azithromycin
+1582,40,0,Moderate,14.5,123716,Escherichia coli,-,9.2,4.0,10.0,1.0,Ceftriaxone
+4910,34,1,Moderate,12.5,215988,Escherichia coli,Escherichia coli,8.7,3.9,11.0,0.0,Ceftriaxone
+3753,58,1,Moderate,13.0,218991,Staphylococcus,Klebsiella pneumoniae,8.1,4.2,10.0,0.0,Ceftriaxone
+398,64,0,Low,13.0,274927,Unknown,-,8.6,4.1,13.0,0.0,Amoxicillin
+2864,55,1,Unknown,12.3,260544,Salmonella typhi,Klebsiella pneumoniae,2.33393847,3.5,6.0,0.0,Ceftriaxone
+4389,64,1,Low,14.7,252565,Unknown,Escherichia coli,8.2,3.8,10.0,1.0,Azithromycin
+3327,26,1,Low,10.6,232881,Unknown,Escherichia coli,8.2,4.7,9.0,1.0,Amoxicillin
+1371,69,1,High,11.0,134200,Salmonella typhi,Klebsiella pneumoniae,9.5,7.55841045,10.0,0.0,Azithromycin
+2627,25,1,High,10.3,150715,Unknown,-,8.1,4.6,11.0,1.0,Amoxicillin
+5190,26,1,Unknown,13.7,159499,Escherichia coli,-,10.0,4.5,5.0,0.0,Ceftriaxone
+2201,48,1,Moderate,10.9,282723,Escherichia coli,Escherichia coli,9.6,3.8,13.0,1.0,Azithromycin
+3458,36,1,High,14.9,270984,Escherichia coli,-,9.5,3.7,15.0,0.0,Amoxicillin
+1765,22,0,Moderate,10.1,172574,Staphylococcus,Klebsiella pneumoniae,8.4,4.6,9.0,0.0,Amoxicillin
+1282,27,1,Low,12.3,240582,Salmonella typhi,Klebsiella pneumoniae,9.2,4.1,8.0,0.0,Azithromycin
+3629,58,0,Moderate,12.1,155222,Escherichia coli,Escherichia coli,8.5,4.1,10.0,0.0,Azithromycin
+1859,29,0,Low,20.54062538,250358,Escherichia coli,Klebsiella pneumoniae,9.0,4.6,7.0,1.0,Ceftriaxone
+991,35,0,Low,12.1,290764,Staphylococcus,Klebsiella pneumoniae,9.7,3.6,13.0,1.0,Azithromycin
+5130,49,0,Low,11.3,247396,Staphylococcus,-,8.8,10.23691266,15.0,1.0,Amoxicillin
+2324,67,1,High,13.6,188685,Escherichia coli,Escherichia coli,8.3,4.7,11.0,0.0,Ceftriaxone
+5320,53,0,Moderate,13.8,205110,Salmonella typhi,-,8.7,4.4,6.0,0.0,Ceftriaxone
+4933,46,1,High,11.3,233748,Staphylococcus,Escherichia coli,9.6,7.802231436,10.0,0.0,Azithromycin
+4249,61,1,High,10.9,221440,Staphylococcus,Escherichia coli,9.2,4.9,7.0,0.0,Amoxicillin
+5245,69,0,High,12.6,289018,Escherichia coli,Escherichia coli,9.2,3.6,5.0,1.0,Amoxicillin
+1149,45,0,Moderate,10.9,148417,Salmonella typhi,-,10.0,4.1,9.0,0.0,Amoxicillin
+984,58,1,Low,23.39240176,191834,Staphylococcus,Klebsiella pneumoniae,9.2,4.2,14.0,0.0,Ceftriaxone
+5668,56,1,Low,11.4,226983,Escherichia coli,-,8.0,3.9,9.0,1.0,Amoxicillin
+500,68,0,Unknown,13.9,262155,Salmonella typhi,Escherichia coli,9.0,4.2,8.0,1.0,Azithromycin
+1369,45,1,Low,10.6,270652,Staphylococcus,Escherichia coli,8.7,4.1,6.0,0.0,Ceftriaxone
+2947,35,1,Moderate,13.5,131020,Salmonella typhi,Escherichia coli,8.4,3.6,5.0,1.0,Azithromycin
+4461,18,1,Low,11.4,258530,Staphylococcus,Escherichia coli,8.9,4.3,7.0,1.0,Azithromycin
+4051,41,0,Low,14.6,132423,Salmonella typhi,Klebsiella pneumoniae,9.3,4.8,6.0,1.0,Ceftriaxone
+5252,59,0,Unknown,12.3,164755,Salmonella typhi,Escherichia coli,8.2,4.8,15.0,0.0,Ceftriaxone
+4143,48,1,Low,10.3,168075,Unknown,Klebsiella pneumoniae,8.7,4.5,10.0,0.0,Ceftriaxone
+729,23,1,Low,13.8,194376,Escherichia coli,Escherichia coli,9.4,14.46962081,9.0,1.0,Ceftriaxone
+1192,67,0,Moderate,12.0,268578,Staphylococcus,Klebsiella pneumoniae,10.0,4.3,5.0,1.0,Azithromycin
+4717,21,0,High,10.4,223413,Salmonella typhi,Escherichia coli,9.2,4.7,10.0,1.0,Amoxicillin
+2010,24,1,Moderate,13.2,162206,Unknown,Klebsiella pneumoniae,9.3,10.23749157,6.0,1.0,Ceftriaxone
+5577,34,1,High,14.8,120255,Unknown,Escherichia coli,9.9,3.9,8.0,1.0,Ceftriaxone
+1622,33,0,Low,11.0,141738,Escherichia coli,Klebsiella pneumoniae,8.6,4.7,5.0,0.0,Ceftriaxone
+2787,32,1,Low,13.7,159786,Salmonella typhi,Klebsiella pneumoniae,8.5,4.4,8.0,1.0,Amoxicillin
+1967,24,0,Moderate,13.4,270002,Salmonella typhi,Escherichia coli,8.7,4.9,12.0,1.0,Azithromycin
+5442,32,1,High,13.4,224017,Escherichia coli,Escherichia coli,9.6,11.10306425,9.0,0.0,Amoxicillin
+313,59,1,High,12.2,262214,Unknown,Klebsiella pneumoniae,9.2,3.5,9.0,1.0,Amoxicillin
+1906,50,1,Moderate,10.6,293648,Staphylococcus,Klebsiella pneumoniae,9.1,5.0,13.0,1.0,Amoxicillin
+1295,18,1,Moderate,10.8,224095,Salmonella typhi,Escherichia coli,10.0,4.0,8.0,1.0,Azithromycin
+833,39,0,Unknown,15.0,188616,Unknown,-,9.5,4.7,13.0,1.0,Azithromycin
+1059,58,0,Low,12.8,226660,Escherichia coli,Klebsiella pneumoniae,9.1,3.6,7.0,1.0,Azithromycin
+4564,22,1,High,11.3,298257,Salmonella typhi,Escherichia coli,9.9,4.0,9.0,0.0,Amoxicillin
+5170,24,0,Moderate,14.7,203401,Salmonella typhi,-,8.0,3.8,14.0,0.0,Ceftriaxone
+189,24,1,Moderate,11.0,138251,Salmonella typhi,-,9.9,4.6,5.0,1.0,Azithromycin
+1430,18,0,Unknown,13.5,223949,Staphylococcus,-,9.4,4.4,12.0,0.0,Azithromycin
+4318,43,1,High,12.3,227911,Escherichia coli,Escherichia coli,9.2,12.5785863,8.0,0.0,Azithromycin
+2221,63,1,Moderate,11.2,270096,Escherichia coli,Escherichia coli,8.7,4.5,12.0,1.0,Ceftriaxone
+5489,50,1,Moderate,12.0,262919,Staphylococcus,-,9.0,3.9,14.0,1.0,Azithromycin
+3069,37,1,High,14.7,247630,Staphylococcus,-,8.7,4.0,11.0,0.0,Amoxicillin
+2971,36,1,Low,10.2,174250,Staphylococcus,Escherichia coli,8.8,4.7,6.0,1.0,Ceftriaxone
+738,69,0,Moderate,11.7,200188,Salmonella typhi,-,9.5,4.5,11.0,1.0,Azithromycin
+5684,19,0,Low,12.7,219844,Unknown,Klebsiella pneumoniae,10.0,4.7,5.0,1.0,Azithromycin
+3870,54,0,Moderate,10.1,182700,Salmonella typhi,Escherichia coli,9.7,4.3,6.0,1.0,Amoxicillin
+4055,30,1,High,11.6,271906,Staphylococcus,Escherichia coli,9.9,4.4,10.0,0.0,Amoxicillin
+1583,53,1,Low,14.1,282754,Staphylococcus,-,8.902755413,5.0,8.0,1.0,Ceftriaxone
+3077,34,1,High,14.8,120255,Staphylococcus,Escherichia coli,9.9,3.9,8.0,1.0,Ceftriaxone
+1520,60,0,Low,11.8,145210,Escherichia coli,Klebsiella pneumoniae,8.0,4.2,5.0,0.0,Azithromycin
+5716,64,0,Moderate,13.6,268625,Escherichia coli,-,9.6,3.6,8.0,0.0,Amoxicillin
+1905,21,1,Moderate,10.6,226577,Staphylococcus,-,8.8,3.9,10.0,0.0,Amoxicillin
+2695,21,1,Unknown,14.5,182597,Unknown,Klebsiella pneumoniae,8.4,4.5,7.0,0.0,Azithromycin
+2904,68,0,Low,11.3,280694,Staphylococcus,Escherichia coli,8.5,3.9,14.0,1.0,Azithromycin
+1695,21,1,High,14.5,182597,Escherichia coli,Klebsiella pneumoniae,8.4,4.5,7.0,0.0,Azithromycin
+4097,70,1,High,13.2,240427,Unknown,Escherichia coli,9.6,4.6,8.0,1.0,Amoxicillin
+5625,60,1,Moderate,10.2,147573,Escherichia coli,Escherichia coli,9.2,3.7,13.0,0.0,Ceftriaxone
+5721,63,1,Unknown,11.2,270096,Unknown,Escherichia coli,8.7,4.5,10.0,1.0,Ceftriaxone
+2664,34,1,Moderate,12.1,201587,Staphylococcus,Escherichia coli,9.6,4.5,14.0,1.0,Ceftriaxone
+5369,45,1,Low,10.6,270652,Staphylococcus,Escherichia coli,8.7,4.1,6.0,0.0,Ceftriaxone
+2798,34,0,Moderate,11.0,149275,Escherichia coli,-,8.6,3.5,13.0,1.0,Azithromycin
+927,21,1,Low,10.4,174021,Unknown,-,8.6,4.1,9.0,0.0,Ceftriaxone
+1643,48,1,Low,10.3,168075,Escherichia coli,Klebsiella pneumoniae,8.7,4.5,11.0,0.0,Ceftriaxone
+426,50,0,High,10.9,226451,Escherichia coli,Klebsiella pneumoniae,0.681214855,4.6,10.0,0.0,Azithromycin
+4755,23,0,Moderate,11.1,195391,Escherichia coli,-,8.3,4.9,10.0,1.0,Ceftriaxone
+2325,63,1,Low,14.8,232135,Unknown,Klebsiella pneumoniae,9.8,3.8,10.0,1.0,Ceftriaxone
+5230,62,1,Low,12.6,157204,Staphylococcus,Klebsiella pneumoniae,9.0,4.1,14.0,0.0,Azithromycin
+2999,19,0,Moderate,10.7,281796,Staphylococcus,Escherichia coli,8.5,4.9,14.0,1.0,Azithromycin
+3417,33,1,Low,13.8,264150,Salmonella typhi,Escherichia coli,8.9,4.2,8.0,0.0,Amoxicillin
+1571,43,0,Moderate,10.7,197970,Escherichia coli,Escherichia coli,8.6,4.7,12.0,1.0,Amoxicillin
+1418,61,1,High,14.0,251573,Salmonella typhi,Escherichia coli,9.5,3.7,13.0,0.0,Ceftriaxone
+5183,66,1,Low,14.4,217134,Salmonella typhi,Escherichia coli,9.0,3.6,9.0,1.0,Azithromycin
+4969,59,1,Low,11.0,279431,Staphylococcus,-,9.7,4.7,7.0,1.0,Amoxicillin
+809,51,0,Moderate,14.0,174907,Staphylococcus,-,9.0,4.0,15.0,0.0,Azithromycin
+3471,36,1,Low,10.2,174250,Staphylococcus,Escherichia coli,8.8,4.7,6.0,1.0,Ceftriaxone
+5409,60,0,Low,13.9,263736,Unknown,Klebsiella pneumoniae,8.4,3.6,9.0,1.0,Amoxicillin
+5178,52,0,Moderate,13.2,165120,Unknown,-,9.5,4.4,12.0,1.0,Azithromycin
+1993,32,0,Moderate,13.6,177667,Unknown,Klebsiella pneumoniae,8.3,3.5,11.0,0.0,Azithromycin
+1848,55,1,High,11.2,131516,Staphylococcus,Escherichia coli,8.8,4.2,13.0,0.0,Amoxicillin
+3528,64,0,Low,12.8,186709,Escherichia coli,Klebsiella pneumoniae,8.8,13.6298569,15.0,1.0,Amoxicillin
+1205,57,0,High,10.3,196319,Escherichia coli,Klebsiella pneumoniae,8.1,4.1,6.0,0.0,Azithromycin
+1106,60,1,Moderate,11.2,247329,Salmonella typhi,-,9.8,4.8,8.0,0.0,Azithromycin
+3773,57,0,Low,14.0,206089,Escherichia coli,-,8.6,4.5,9.0,1.0,Azithromycin
+3264,58,1,Moderate,13.3,200716,Escherichia coli,Escherichia coli,9.7,7.904634492,9.0,1.0,Azithromycin
+3681,46,1,Low,11.2,240018,Staphylococcus,Klebsiella pneumoniae,8.4,3.8,12.0,0.0,Azithromycin
+5186,47,1,Low,13.1,198078,Escherichia coli,-,9.0,4.6,10.0,0.0,Amoxicillin
+2581,42,0,Moderate,11.8,241035,Escherichia coli,Klebsiella pneumoniae,8.2,4.8,6.0,0.0,Ceftriaxone
+1824,67,1,High,13.6,188685,Escherichia coli,Escherichia coli,8.3,4.7,10.0,0.0,Ceftriaxone
+2102,51,0,Low,14.8,128204,Salmonella typhi,Escherichia coli,8.8,4.8,13.0,1.0,Azithromycin
+2434,58,0,High,11.0,139726,Staphylococcus,Klebsiella pneumoniae,8.2,4.5,6.0,0.0,Ceftriaxone
+5414,66,0,Low,11.2,250524,Unknown,-,9.0,3.9,8.0,1.0,Amoxicillin
+1112,38,1,Moderate,13.5,210954,Salmonella typhi,Escherichia coli,9.3,4.4,10.0,0.0,Azithromycin
+1229,23,1,Low,13.8,194376,Escherichia coli,Escherichia coli,9.4,4.7,9.0,1.0,Ceftriaxone
+1322,65,1,Low,11.8,203679,Salmonella typhi,-,8.2,4.1,9.0,0.0,Ceftriaxone
+1777,33,0,High,13.6,267979,Salmonella typhi,Escherichia coli,8.7,3.9,14.0,1.0,Amoxicillin
+5676,32,1,High,10.5,289323,Staphylococcus,-,9.7,4.6,10.0,1.0,Azithromycin
+4942,32,1,High,13.4,224017,Escherichia coli,Escherichia coli,9.6,4.0,9.0,0.0,Amoxicillin
+2749,61,1,High,10.9,221440,Staphylococcus,Escherichia coli,9.2,4.9,7.0,0.0,Amoxicillin
+2309,51,0,Moderate,14.0,174907,Staphylococcus,-,9.0,4.0,15.0,0.0,Azithromycin
+1281,23,0,Low,14.0,266451,Salmonella typhi,Escherichia coli,8.4,3.8,12.0,1.0,Amoxicillin
+5576,37,1,Low,11.7,153602,Staphylococcus,Escherichia coli,8.3,4.6,11.0,0.0,Ceftriaxone
+5652,29,0,Low,11.7,257674,Staphylococcus,-,8.3,4.2,8.0,1.0,Amoxicillin
+4504,56,1,High,23.97763868,157787,Salmonella typhi,Klebsiella pneumoniae,9.4,3.7,13.0,1.0,Ceftriaxone
+1029,63,0,High,11.3,138504,Unknown,-,8.0,3.7,15.0,1.0,Azithromycin
+2554,64,1,Low,11.8,218056,Unknown,-,8.6,4.3,14.0,1.0,Azithromycin
+3572,28,0,High,14.0,251367,Staphylococcus,Klebsiella pneumoniae,8.8,3.8,9.0,1.0,Azithromycin
+3449,65,1,Moderate,11.5,237296,Unknown,Klebsiella pneumoniae,9.9,4.8,13.0,1.0,Amoxicillin
+2716,64,0,Unknown,13.6,268625,Escherichia coli,-,9.6,3.6,8.0,0.0,Amoxicillin
+4988,55,0,Unknown,13.8,171116,Unknown,-,8.6,3.8,10.0,0.0,Azithromycin
+1883,33,0,Moderate,11.6,269082,Unknown,Escherichia coli,9.4,3.9,9.0,0.0,Azithromycin
+682,49,0,High,13.8,204987,Staphylococcus,Klebsiella pneumoniae,8.3,4.4,5.0,1.0,Azithromycin
+1798,34,0,Moderate,11.0,149275,Escherichia coli,-,8.6,3.5,13.0,1.0,Azithromycin
+1497,27,0,Low,14.2,259369,Staphylococcus,Klebsiella pneumoniae,9.2,4.4,8.0,1.0,Azithromycin
+1344,37,0,Low,12.5,225673,Salmonella typhi,Klebsiella pneumoniae,10.0,4.8,14.0,0.0,Azithromycin
+507,55,1,Low,14.9,178364,Escherichia coli,-,9.1,4.7,10.0,1.0,Ceftriaxone
+550,60,0,Moderate,13.9,165846,Unknown,Escherichia coli,9.4,5.0,6.0,1.0,Azithromycin
+2837,42,1,Moderate,11.8,170275,Escherichia coli,Escherichia coli,8.4,4.5,15.0,1.0,Ceftriaxone
+4645,23,1,High,10.6,131751,Unknown,Escherichia coli,18.56143327,4.0,11.0,1.0,Azithromycin
+1907,70,1,Moderate,11.0,290206,Escherichia coli,-,8.4,4.5,9.0,0.0,Amoxicillin
+1776,40,1,Unknown,12.8,221970,Staphylococcus,Klebsiella pneumoniae,9.4,4.6,13.0,1.0,Azithromycin
+4088,42,1,Low,14.0,285053,Staphylococcus,Escherichia coli,9.1,4.3,6.0,0.0,Amoxicillin
+5602,51,0,Low,14.8,128204,Unknown,Escherichia coli,8.8,4.8,13.0,1.0,Azithromycin
+2655,36,1,High,10.8,219905,Escherichia coli,Klebsiella pneumoniae,9.1,8.004513735,6.0,0.0,Ceftriaxone
+946,40,0,Low,11.1,177798,Unknown,Klebsiella pneumoniae,9.4,4.7,7.0,0.0,Amoxicillin
+4822,65,1,Low,11.8,203679,Salmonella typhi,-,8.2,4.1,9.0,0.0,Ceftriaxone
+3974,30,1,Moderate,10.5,163435,Staphylococcus,-,9.2,10.04759193,5.0,1.0,Amoxicillin
+298,34,0,Unknown,11.0,149275,Escherichia coli,-,8.6,3.5,13.0,1.0,Azithromycin
+3617,53,1,High,21.08314654,128488,Escherichia coli,Klebsiella pneumoniae,9.8,4.7,9.0,0.0,Azithromycin
+4874,27,1,Low,14.5,202101,Escherichia coli,Klebsiella pneumoniae,9.6,4.1,6.0,0.0,Ceftriaxone
+4449,65,1,Moderate,11.5,237296,Unknown,Klebsiella pneumoniae,9.9,4.8,13.0,1.0,Amoxicillin
+3330,57,1,High,12.5,128331,Salmonella typhi,-,8.9,4.4,12.0,0.0,Amoxicillin
+3683,66,1,Low,14.4,217134,Salmonella typhi,Escherichia coli,9.0,3.6,9.0,1.0,Azithromycin
+615,50,1,Moderate,10.3,227431,Staphylococcus,-,9.9,4.1,10.0,0.0,Amoxicillin
+279,43,1,High,12.0,135752,Salmonella typhi,Klebsiella pneumoniae,9.1,4.9,9.0,0.0,Amoxicillin
+3744,32,1,Unknown,11.8,271383,Salmonella typhi,-,8.7,4.1,6.0,1.0,Amoxicillin
+201,48,1,Moderate,10.9,282723,Escherichia coli,Escherichia coli,9.6,3.8,13.0,1.0,Azithromycin
+5722,49,1,Moderate,14.6,139074,Escherichia coli,Escherichia coli,8.9,4.5,10.0,1.0,Amoxicillin
+2917,33,1,Unknown,13.8,264150,Salmonella typhi,Escherichia coli,8.9,7.546444947,10.0,0.0,Amoxicillin
+790,31,1,Moderate,11.8,149338,Salmonella typhi,-,9.4,3.8,10.0,1.0,Azithromycin
+3916,19,0,Low,12.1,128224,Staphylococcus,Escherichia coli,7.789511906,4.9,15.0,1.0,Amoxicillin
+5013,37,0,Moderate,11.1,178774,Escherichia coli,-,10.0,4.0,15.0,1.0,Azithromycin
+3030,63,0,Moderate,13.4,150384,Staphylococcus,Klebsiella pneumoniae,9.8,8.398269368,5.0,0.0,Ceftriaxone
+2296,63,1,High,10.4,133666,Staphylococcus,Klebsiella pneumoniae,8.7,4.2,6.0,1.0,Amoxicillin
+634,34,0,High,12.3,207345,Escherichia coli,-,8.7,3.5,12.0,0.0,Azithromycin
+2049,68,1,Low,12.8,124105,Salmonella typhi,Klebsiella pneumoniae,8.4,4.8,12.0,0.0,Azithromycin
+4546,32,1,Unknown,11.5,204730,Salmonella typhi,Klebsiella pneumoniae,9.7,3.9,10.0,1.0,Amoxicillin
+2304,32,0,High,13.9,241071,Escherichia coli,-,8.2,4.9,15.0,1.0,Azithromycin
+4783,19,1,High,11.4,211866,Salmonella typhi,Klebsiella pneumoniae,9.8,4.9,11.0,1.0,Azithromycin
+484,58,1,Low,10.2,191834,Staphylococcus,Klebsiella pneumoniae,9.2,4.2,14.0,0.0,Ceftriaxone
+4189,24,1,Moderate,11.0,138251,Unknown,-,7.689557131,4.6,5.0,1.0,Azithromycin
+5288,51,1,Low,11.4,179461,Salmonella typhi,Escherichia coli,9.1,4.5,5.0,1.0,Ceftriaxone
+2732,40,1,Low,11.9,191388,Escherichia coli,-,8.9,4.4,10.0,1.0,Amoxicillin
+1283,19,1,High,23.04565825,211866,Salmonella typhi,Klebsiella pneumoniae,9.8,4.9,11.0,1.0,Azithromycin
+4492,35,1,Low,12.7,132392,Salmonella typhi,Escherichia coli,8.6,4.9,13.0,0.0,Amoxicillin
+3114,47,0,High,20.98523685,228631,Escherichia coli,Klebsiella pneumoniae,9.3,10.18205625,6.0,0.0,Amoxicillin
+2616,59,0,High,13.9,275815,Escherichia coli,Escherichia coli,9.6,4.1,9.0,1.0,Ceftriaxone
+1173,59,0,High,10.0,190527,Unknown,Escherichia coli,9.5,4.1,8.0,1.0,Amoxicillin
+3293,43,1,High,14.2,148321,Unknown,Escherichia coli,9.0,4.8,8.0,1.0,Azithromycin
+3415,41,1,High,13.9,178364,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,10.0,0.0,Amoxicillin
+3488,55,0,Moderate,13.8,171116,Salmonella typhi,-,8.6,3.8,10.0,0.0,Azithromycin
+2328,19,0,Low,13.5,222111,Staphylococcus,-,8.7,4.9,8.0,1.0,Ceftriaxone
+5738,69,0,Moderate,11.7,200188,Salmonella typhi,-,9.5,4.5,11.0,1.0,Azithromycin
+827,26,1,Low,10.6,232881,Salmonella typhi,Escherichia coli,8.2,4.7,9.0,1.0,Amoxicillin
+5301,60,0,High,13.8,182928,Salmonella typhi,-,8.7,4.1,13.0,0.0,Amoxicillin
+175,66,1,Low,12.2,127651,Staphylococcus,Escherichia coli,8.4,3.5,10.0,1.0,Azithromycin
+1725,31,0,Moderate,12.0,265666,Escherichia coli,Klebsiella pneumoniae,9.0,4.8,10.0,1.0,Amoxicillin
+3856,29,0,Moderate,12.6,277098,Staphylococcus,Escherichia coli,8.5,4.8,6.0,0.0,Azithromycin
+4600,35,1,Moderate,14.4,299799,Staphylococcus,Escherichia coli,9.7,4.8,7.0,1.0,Amoxicillin
+4384,57,1,Moderate,14.7,261054,Staphylococcus,Escherichia coli,9.0,3.9,11.0,0.0,Azithromycin
+3775,31,0,High,10.5,122572,Staphylococcus,-,9.9,3.8,7.0,1.0,Ceftriaxone
+4634,34,0,High,12.3,207345,Escherichia coli,-,8.7,3.5,12.0,0.0,Azithromycin
+309,51,0,Moderate,14.0,174907,Staphylococcus,-,9.0,4.0,15.0,0.0,Azithromycin
+5687,36,1,Low,11.1,224202,Salmonella typhi,-,8.8,3.9,15.0,1.0,Azithromycin
+5251,30,0,Low,10.9,166253,Staphylococcus,Klebsiella pneumoniae,9.0,3.6,12.0,0.0,Amoxicillin
+3694,36,0,Unknown,14.7,126949,Salmonella typhi,Escherichia coli,9.8,4.9,15.0,0.0,Azithromycin
+490,33,0,High,11.0,183052,Escherichia coli,Escherichia coli,8.6,4.8,5.0,0.0,Azithromycin
+2772,28,0,Low,11.3,139608,Escherichia coli,-,8.7,3.9,12.0,0.0,Ceftriaxone
+3154,19,1,High,12.8,167640,Salmonella typhi,Klebsiella pneumoniae,9.4,3.8,13.0,1.0,Azithromycin
+4047,54,1,Moderate,11.0,266999,Staphylococcus,-,8.3,4.9,5.0,0.0,Azithromycin
+4640,41,1,Unknown,14.0,219718,Unknown,Klebsiella pneumoniae,8.0,4.1,14.0,1.0,Amoxicillin
+2056,59,0,Unknown,12.7,133464,Unknown,Escherichia coli,9.4,3.7,13.0,1.0,Amoxicillin
+3322,65,1,Unknown,11.8,203679,Salmonella typhi,-,8.2,4.1,9.0,0.0,Ceftriaxone
+534,53,1,High,24.52345175,254835,Escherichia coli,Escherichia coli,8.4,4.9,8.0,1.0,Ceftriaxone
+4067,49,0,High,12.0,257617,Escherichia coli,Klebsiella pneumoniae,9.9,4.4,9.0,0.0,Azithromycin
+3584,38,1,Moderate,12.7,222301,Unknown,Klebsiella pneumoniae,9.4,3.7,14.0,1.0,Ceftriaxone
+5658,70,1,Low,14.0,283006,Staphylococcus,Klebsiella pneumoniae,9.3,4.2,8.0,0.0,Azithromycin
+5562,61,0,Unknown,11.6,139761,Unknown,Klebsiella pneumoniae,9.4,11.27486773,13.0,1.0,Azithromycin
+5318,43,1,High,12.3,227911,Unknown,Escherichia coli,9.2,4.5,8.0,0.0,Azithromycin
+5172,63,1,Unknown,10.4,123473,Escherichia coli,-,4.34412346,4.0,7.0,1.0,Azithromycin
+4342,27,0,Moderate,13.3,189420,Escherichia coli,-,8.3,4.5,7.0,0.0,Amoxicillin
+1139,41,1,Low,21.52820406,275734,Salmonella typhi,Klebsiella pneumoniae,9.1,4.7,8.0,1.0,Amoxicillin
+3954,42,1,High,12.9,174928,Unknown,-,9.4,4.7,12.0,1.0,Ceftriaxone
+5284,59,0,High,13.3,177558,Staphylococcus,Escherichia coli,9.7,4.8,13.0,1.0,Ceftriaxone
+3231,31,0,Low,11.8,259855,Escherichia coli,Klebsiella pneumoniae,9.1,3.9,10.0,1.0,Ceftriaxone
+2737,63,0,Low,14.5,242715,Unknown,Escherichia coli,9.4,4.9,12.0,0.0,Amoxicillin
+3400,55,1,Moderate,12.2,152381,Staphylococcus,Escherichia coli,9.2,4.0,10.0,0.0,Ceftriaxone
+3540,58,1,Moderate,11.4,125831,Staphylococcus,Klebsiella pneumoniae,8.5,4.4,12.0,1.0,Azithromycin
+1590,45,1,Unknown,10.1,221098,Salmonella typhi,-,13.152092,3.8,7.0,1.0,Amoxicillin
+1201,48,1,Moderate,10.9,282723,Escherichia coli,Escherichia coli,9.6,3.8,10.0,1.0,Azithromycin
+2280,25,0,Low,13.1,261383,Escherichia coli,-,1.838070862,4.5,11.0,0.0,Amoxicillin
+4474,30,1,Moderate,22.16601243,163435,Unknown,-,9.2,4.6,5.0,1.0,Amoxicillin
+2463,31,0,Moderate,14.9,202641,Escherichia coli,Escherichia coli,9.6,3.7,8.0,0.0,Ceftriaxone
+2623,18,0,Moderate,11.7,228923,Unknown,Escherichia coli,11.43378788,4.2,13.0,0.0,Azithromycin
+1560,40,1,High,14.0,240563,Escherichia coli,Klebsiella pneumoniae,8.0,4.6,11.0,0.0,Ceftriaxone
+4267,37,0,High,13.6,272076,Staphylococcus,Klebsiella pneumoniae,8.8,3.5,13.0,1.0,Azithromycin
+2486,47,1,Moderate,10.5,296049,Unknown,Klebsiella pneumoniae,9.6,4.8,7.0,0.0,Azithromycin
+1849,58,0,Moderate,13.3,266849,Unknown,Klebsiella pneumoniae,8.4,4.7,9.0,1.0,Amoxicillin
+445,49,0,Moderate,12.6,227175,Escherichia coli,Escherichia coli,8.1,4.0,10.0,0.0,Ceftriaxone
+4400,55,1,Moderate,12.2,152381,Staphylococcus,Escherichia coli,9.2,4.0,10.0,0.0,Ceftriaxone
+3653,22,0,High,10.2,171452,Unknown,Klebsiella pneumoniae,8.4,3.7,10.0,1.0,Ceftriaxone
+5050,60,0,Moderate,13.9,165846,Salmonella typhi,Escherichia coli,9.4,5.0,6.0,1.0,Azithromycin
+5353,44,1,Moderate,12.5,194850,Salmonella typhi,-,10.0,4.5,9.0,1.0,Azithromycin
+3982,30,0,Unknown,22.01767812,150640,Staphylococcus,-,8.9,3.8,12.0,1.0,Azithromycin
+2306,27,0,Unknown,13.6,124060,Staphylococcus,-,9.7,5.0,5.0,1.0,Amoxicillin
+3597,70,1,High,13.2,240427,Salmonella typhi,Escherichia coli,9.6,4.6,8.0,1.0,Amoxicillin
+5617,53,1,High,14.6,128488,Escherichia coli,Klebsiella pneumoniae,9.8,4.7,9.0,0.0,Azithromycin
+3281,23,0,Low,21.31611033,266451,Unknown,Escherichia coli,8.4,3.8,12.0,1.0,Amoxicillin
+447,35,1,Unknown,13.5,131020,Salmonella typhi,Escherichia coli,0.079749015,3.6,5.0,1.0,Azithromycin
+5503,33,1,Unknown,10.7,251028,Unknown,-,10.0,3.8,15.0,0.0,Azithromycin
+252,59,0,Low,12.3,164755,Unknown,Escherichia coli,8.2,4.8,15.0,0.0,Ceftriaxone
+4373,19,0,High,12.1,254478,Unknown,Escherichia coli,8.2,3.8,12.0,1.0,Azithromycin
+3048,54,0,High,13.1,149319,Staphylococcus,Klebsiella pneumoniae,8.5,9.164665807,5.0,0.0,Azithromycin
+2318,43,1,High,12.3,227911,Unknown,Escherichia coli,9.2,4.5,8.0,0.0,Azithromycin
+5303,24,1,Low,13.6,209748,Salmonella typhi,Escherichia coli,9.5,4.7,10.0,1.0,Ceftriaxone
+524,53,1,Low,12.3,196866,Staphylococcus,-,8.2,3.7,14.0,0.0,Ceftriaxone
+29,63,0,High,11.3,138504,Escherichia coli,-,8.0,3.7,15.0,1.0,Azithromycin
+2780,25,0,Unknown,13.1,261383,Escherichia coli,-,10.0,4.5,11.0,0.0,Amoxicillin
+5115,50,1,Moderate,10.3,227431,Staphylococcus,-,9.9,4.1,13.0,0.0,Amoxicillin
+1562,61,0,Moderate,11.6,139761,Unknown,Klebsiella pneumoniae,9.4,3.8,13.0,1.0,Azithromycin
+3962,18,1,Moderate,13.9,136774,Escherichia coli,-,9.8,5.0,8.0,1.0,Amoxicillin
+466,55,1,Unknown,10.8,175100,Unknown,Escherichia coli,9.0,4.7,15.0,1.0,Azithromycin
+5102,51,0,Low,14.8,128204,Salmonella typhi,Escherichia coli,8.8,4.8,13.0,1.0,Azithromycin
+1855,49,1,High,10.1,125026,Escherichia coli,-,8.9,4.5,10.0,0.0,Azithromycin
+3695,21,1,High,14.5,182597,Escherichia coli,Klebsiella pneumoniae,8.4,4.5,10.0,0.0,Azithromycin
+3361,47,0,Moderate,12.7,277660,Salmonella typhi,-,9.3,11.1798759,13.0,1.0,Amoxicillin
+2631,60,1,Low,12.0,193271,Salmonella typhi,Klebsiella pneumoniae,8.5,3.9,14.0,0.0,Amoxicillin
+4485,45,0,Low,13.5,223823,Staphylococcus,Klebsiella pneumoniae,9.1,4.7,11.0,1.0,Azithromycin
+2938,32,1,Low,14.2,160244,Escherichia coli,Escherichia coli,8.9,3.7,14.0,0.0,Azithromycin
+3997,27,0,Low,14.2,259369,Staphylococcus,Klebsiella pneumoniae,9.2,4.4,8.0,1.0,Azithromycin
+1168,56,1,Low,11.4,226983,Unknown,-,8.0,3.9,9.0,1.0,Amoxicillin
+2253,58,1,Moderate,13.0,218991,Staphylococcus,Klebsiella pneumoniae,8.1,4.2,5.0,0.0,Ceftriaxone
+3233,28,1,Moderate,13.7,247281,Staphylococcus,-,8.8,4.1,13.0,1.0,Azithromycin
+4802,32,1,Low,12.3,203540,Escherichia coli,Escherichia coli,8.4,4.8,12.0,0.0,Azithromycin
+5725,31,0,Unknown,12.0,265666,Escherichia coli,Klebsiella pneumoniae,9.0,4.8,13.0,1.0,Amoxicillin
+696,41,1,High,10.5,153282,Salmonella typhi,Escherichia coli,9.8,3.9,9.0,1.0,Amoxicillin
+4731,31,0,Unknown,11.8,259855,Escherichia coli,Klebsiella pneumoniae,9.1,3.9,7.0,1.0,Ceftriaxone
+376,39,1,Low,13.7,242459,Escherichia coli,Escherichia coli,9.0,4.0,12.0,0.0,Ceftriaxone
+3945,49,0,Moderate,12.6,227175,Escherichia coli,Escherichia coli,8.1,4.0,9.0,0.0,Ceftriaxone
+1961,18,1,Low,11.4,258530,Staphylococcus,Escherichia coli,8.9,4.3,7.0,1.0,Azithromycin
+3189,24,1,Moderate,11.0,138251,Unknown,-,9.9,4.6,5.0,1.0,Azithromycin
+4105,53,1,High,14.5,138711,Unknown,-,9.4,4.7,10.0,1.0,Azithromycin
+5007,55,1,Low,14.9,178364,Unknown,-,9.1,4.7,10.0,1.0,Ceftriaxone
+541,68,1,Low,13.4,240767,Escherichia coli,Klebsiella pneumoniae,9.0,4.4,6.0,1.0,Ceftriaxone
+2974,30,1,Moderate,10.5,163435,Unknown,-,9.2,4.6,5.0,1.0,Amoxicillin
+3578,53,1,Low,12.1,158382,Salmonella typhi,-,8.5,7.99557335,10.0,1.0,Azithromycin
+4786,49,1,Low,12.8,274106,Salmonella typhi,Klebsiella pneumoniae,9.4,10.6789176,11.0,0.0,Azithromycin
+3872,50,0,Moderate,14.3,198282,Staphylococcus,Escherichia coli,8.3,4.2,15.0,0.0,Ceftriaxone
+1403,61,0,Moderate,10.9,185690,Staphylococcus,-,8.6,4.0,5.0,1.0,Amoxicillin
+4679,42,1,Unknown,11.4,225541,Staphylococcus,Escherichia coli,9.7,9.523811815,14.0,1.0,Amoxicillin
+4379,47,0,High,12.0,155402,Salmonella typhi,Escherichia coli,8.9,4.7,5.0,0.0,Amoxicillin
+2817,42,1,Moderate,11.9,136833,Staphylococcus,-,9.3,4.6,8.0,1.0,Azithromycin
+2173,59,0,High,10.0,190527,Escherichia coli,Escherichia coli,9.5,4.1,8.0,1.0,Amoxicillin
+1251,30,0,Low,10.9,166253,Unknown,Klebsiella pneumoniae,9.0,3.6,12.0,0.0,Amoxicillin
+977,27,1,Moderate,10.2,121845,Unknown,-,8.1,4.7,14.0,0.0,Azithromycin
+1236,35,1,Moderate,11.1,232301,Escherichia coli,Klebsiella pneumoniae,9.2,3.7,6.0,0.0,Azithromycin
+2557,40,1,High,10.8,143215,Staphylococcus,Escherichia coli,9.0,3.8,7.0,0.0,Amoxicillin
+5214,50,1,Moderate,20.2698883,263443,Salmonella typhi,Escherichia coli,9.9,4.1,7.0,1.0,Amoxicillin
+3028,64,0,Low,12.8,186709,Escherichia coli,Klebsiella pneumoniae,8.8,4.7,10.0,1.0,Amoxicillin
+2430,18,0,Moderate,13.5,223949,Staphylococcus,-,6.523106584,4.4,12.0,0.0,Azithromycin
+2006,19,0,Low,12.8,264479,Salmonella typhi,Klebsiella pneumoniae,8.7,4.9,13.0,1.0,Amoxicillin
+4575,38,0,Low,12.8,126804,Staphylococcus,Klebsiella pneumoniae,9.4,3.9,6.0,0.0,Ceftriaxone
+1330,57,1,High,12.5,128331,Salmonella typhi,-,8.9,4.4,12.0,0.0,Amoxicillin
+3139,41,1,Low,11.1,275734,Salmonella typhi,Klebsiella pneumoniae,9.1,4.7,8.0,1.0,Amoxicillin
+3967,24,0,Unknown,13.4,270002,Salmonella typhi,Escherichia coli,8.7,4.9,12.0,1.0,Azithromycin
+2591,42,1,Low,11.3,175743,Staphylococcus,-,8.9,4.5,9.0,0.0,Amoxicillin
+1387,58,1,High,11.8,154557,Staphylococcus,-,8.4,4.6,5.0,0.0,Amoxicillin
+4114,47,0,Unknown,11.1,228631,Escherichia coli,Klebsiella pneumoniae,9.3,3.9,6.0,0.0,Amoxicillin
+3920,24,1,Moderate,13.6,145376,Escherichia coli,-,8.3,4.5,9.0,1.0,Amoxicillin
+4013,37,0,Unknown,11.1,178774,Escherichia coli,-,10.0,4.0,15.0,1.0,Azithromycin
+595,32,0,High,13.1,125605,Escherichia coli,-,8.3,4.2,10.0,1.0,Amoxicillin
+1877,59,0,High,13.7,218477,Unknown,Escherichia coli,9.1,4.0,11.0,1.0,Amoxicillin
+2459,44,0,Unknown,11.0,178327,Staphylococcus,Klebsiella pneumoniae,2.59003947,3.6,6.0,1.0,Ceftriaxone
+831,35,1,Low,21.64083248,291619,Escherichia coli,Escherichia coli,9.8,4.4,5.0,1.0,Ceftriaxone
+308,60,1,High,11.4,258260,Escherichia coli,Klebsiella pneumoniae,8.8,4.0,6.0,1.0,Ceftriaxone
+5171,53,1,High,14.6,212127,Salmonella typhi,Escherichia coli,9.8,4.0,13.0,0.0,Amoxicillin
+5107,42,0,Moderate,10.9,223968,Staphylococcus,Klebsiella pneumoniae,9.9,4.7,15.0,1.0,Ceftriaxone
+567,49,0,High,12.0,257617,Escherichia coli,Klebsiella pneumoniae,9.9,4.4,9.0,0.0,Azithromycin
+1223,33,1,Low,10.3,212043,Escherichia coli,Escherichia coli,9.4,3.9,10.0,0.0,Ceftriaxone
+5247,54,1,High,12.4,197608,Escherichia coli,Klebsiella pneumoniae,8.4,4.0,11.0,0.0,Ceftriaxone
+2300,27,0,Moderate,12.8,177049,Staphylococcus,Klebsiella pneumoniae,5.905637378,3.6,9.0,1.0,Azithromycin
+5532,46,1,Low,11.3,154803,Escherichia coli,-,8.2,4.6,8.0,1.0,Ceftriaxone
+1815,42,0,High,14.7,230812,Escherichia coli,Escherichia coli,9.8,4.5,5.0,1.0,Amoxicillin
+5587,67,1,Moderate,13.2,143442,Unknown,Escherichia coli,9.6,4.7,6.0,0.0,Azithromycin
+4289,63,0,Low,11.0,265338,Escherichia coli,Klebsiella pneumoniae,8.8,4.4,11.0,1.0,Azithromycin
+1365,52,1,High,14.1,225376,Escherichia coli,-,8.7,4.9,13.0,0.0,Amoxicillin
+2900,55,1,Unknown,12.2,152381,Staphylococcus,Escherichia coli,9.2,4.0,10.0,0.0,Ceftriaxone
+1867,31,1,Unknown,10.1,222307,Escherichia coli,Escherichia coli,8.8,4.1,10.0,0.0,Ceftriaxone
+1866,70,0,Low,10.6,246631,Unknown,-,9.1,4.5,11.0,0.0,Amoxicillin
+2804,32,0,High,13.9,241071,Escherichia coli,-,8.2,4.9,15.0,1.0,Azithromycin
+5200,51,0,Moderate,13.6,289899,Unknown,Klebsiella pneumoniae,9.5,4.6,6.0,1.0,Amoxicillin
+3740,54,1,High,12.4,187155,Staphylococcus,Klebsiella pneumoniae,9.0,3.6,8.0,0.0,Ceftriaxone
+5469,59,1,Low,11.0,279431,Staphylococcus,-,9.7,4.7,10.0,1.0,Amoxicillin
+3155,36,1,High,10.8,219905,Unknown,Klebsiella pneumoniae,9.1,4.8,6.0,0.0,Ceftriaxone
+1995,56,0,Moderate,10.2,244228,Staphylococcus,Escherichia coli,9.5,4.6,7.0,0.0,Azithromycin
+3577,34,1,High,14.8,120255,Staphylococcus,Escherichia coli,9.9,3.9,8.0,1.0,Ceftriaxone
+5498,51,0,High,13.0,137143,Salmonella typhi,-,9.6,4.4,10.0,1.0,Ceftriaxone
+1792,51,0,Low,12.5,248124,Unknown,Klebsiella pneumoniae,9.0,3.5,10.0,0.0,Amoxicillin
+4078,53,1,Unknown,12.1,158382,Salmonella typhi,-,8.5,3.7,14.0,1.0,Azithromycin
+2371,69,1,High,11.0,134200,Salmonella typhi,Klebsiella pneumoniae,9.5,4.5,10.0,0.0,Azithromycin
+2053,25,0,Unknown,10.7,135912,Escherichia coli,Escherichia coli,9.5,3.7,13.0,1.0,Amoxicillin
+4341,27,1,Moderate,10.8,283337,Escherichia coli,Klebsiella pneumoniae,8.8,3.9,11.0,1.0,Amoxicillin
+4970,22,0,Moderate,12.4,140498,Escherichia coli,-,8.7,5.0,14.0,1.0,Azithromycin
+3463,31,0,Moderate,14.9,202641,Escherichia coli,Escherichia coli,9.577656769,3.7,8.0,0.0,Ceftriaxone
+1889,64,1,Unknown,14.7,252565,Escherichia coli,Escherichia coli,8.2,3.8,10.0,1.0,Azithromycin
+4780,25,0,Unknown,13.1,261383,Escherichia coli,-,10.0,4.5,11.0,0.0,Amoxicillin
+1720,37,0,Moderate,13.4,220988,Staphylococcus,Klebsiella pneumoniae,9.7,4.8,14.0,1.0,Amoxicillin
+117,53,1,High,14.6,128488,Escherichia coli,Klebsiella pneumoniae,9.8,4.7,9.0,0.0,Azithromycin
+391,67,1,Low,10.6,276620,Escherichia coli,Klebsiella pneumoniae,10.0,3.7,12.0,1.0,Amoxicillin
+2492,35,1,Low,12.7,132392,Salmonella typhi,Escherichia coli,8.6,4.9,13.0,0.0,Amoxicillin
+2862,65,0,High,10.3,220353,Unknown,Klebsiella pneumoniae,8.5,4.1,8.0,1.0,Amoxicillin
+1191,48,1,Unknown,14.7,120593,Escherichia coli,Klebsiella pneumoniae,8.1,3.9,7.0,0.0,Amoxicillin
+2610,68,0,Low,12.3,212174,Staphylococcus,Escherichia coli,8.2,3.8,15.0,1.0,Azithromycin
+1216,64,0,Moderate,13.6,268625,Escherichia coli,-,9.6,3.6,8.0,0.0,Amoxicillin
+2778,48,0,Moderate,12.3,228108,Staphylococcus,-,8.9,5.0,7.0,0.0,Azithromycin
+3869,45,1,Low,10.6,270652,Staphylococcus,Escherichia coli,6.593160386,4.1,6.0,0.0,Ceftriaxone
+2320,53,0,Unknown,13.8,205110,Salmonella typhi,-,8.7,4.4,6.0,0.0,Ceftriaxone
+1996,31,0,Low,14.9,239852,Staphylococcus,-,8.8,4.2,15.0,1.0,Amoxicillin
+1667,35,0,High,14.0,251719,Salmonella typhi,Escherichia coli,8.3,3.6,12.0,0.0,Ceftriaxone
+4745,69,0,High,12.6,289018,Escherichia coli,Escherichia coli,9.2,3.6,5.0,1.0,Amoxicillin
+2096,21,1,Low,10.5,194804,Salmonella typhi,Escherichia coli,8.7,4.3,9.0,1.0,Amoxicillin
+4499,19,0,Moderate,10.7,281796,Staphylococcus,Escherichia coli,8.5,4.9,14.0,1.0,Azithromycin
+2101,38,0,Low,13.9,293212,Escherichia coli,Klebsiella pneumoniae,9.2,3.8,12.0,1.0,Azithromycin
+2275,31,0,Unknown,10.5,122572,Staphylococcus,-,9.9,3.8,7.0,1.0,Ceftriaxone
+1428,49,1,High,14.7,285788,Salmonella typhi,-,8.2,4.1,15.0,1.0,Azithromycin
+5138,53,0,Moderate,14.2,241424,Salmonella typhi,Escherichia coli,9.2,8.35279972,5.0,1.0,Azithromycin
+545,44,0,Moderate,14.6,211337,Escherichia coli,Escherichia coli,8.4,3.7,13.0,0.0,Amoxicillin
+3575,38,0,Low,12.8,126804,Staphylococcus,Klebsiella pneumoniae,9.4,3.9,6.0,0.0,Ceftriaxone
+5048,54,0,High,13.1,149319,Staphylococcus,Klebsiella pneumoniae,8.5,4.7,5.0,0.0,Azithromycin
+2212,68,1,High,13.4,165111,Escherichia coli,-,9.9,3.8,14.0,1.0,Ceftriaxone
+3729,23,1,Low,13.8,194376,Escherichia coli,Escherichia coli,9.4,4.7,9.0,1.0,Ceftriaxone
+5660,20,1,Moderate,12.8,251961,Staphylococcus,Escherichia coli,8.6,4.5,11.0,1.0,Azithromycin
+2015,23,0,High,22.91287447,175829,Escherichia coli,Escherichia coli,8.5,5.0,13.0,1.0,Ceftriaxone
+1895,21,0,Moderate,11.4,214135,Escherichia coli,-,8.5,4.1,7.0,0.0,Amoxicillin
+4290,31,1,Moderate,11.8,149338,Salmonella typhi,-,9.4,3.8,10.0,1.0,Azithromycin
+1241,70,0,High,13.0,237778,Staphylococcus,Klebsiella pneumoniae,9.6,4.8,5.0,1.0,Amoxicillin
+3656,47,1,Low,13.4,219780,Salmonella typhi,Escherichia coli,9.1,4.4,9.0,0.0,Amoxicillin
+4678,52,0,Moderate,13.2,165120,Staphylococcus,-,19.47113605,10.26890996,12.0,1.0,Azithromycin
+2399,25,1,High,14.7,196015,Escherichia coli,-,9.9,3.8,10.0,0.0,Ceftriaxone
+4684,19,0,Low,20.03944838,219844,Escherichia coli,Klebsiella pneumoniae,10.0,4.7,5.0,1.0,Azithromycin
+4450,66,1,Low,10.3,171858,Salmonella typhi,Klebsiella pneumoniae,9.6,4.9,5.0,1.0,Ceftriaxone
+4827,26,1,Low,24.40458595,232881,Salmonella typhi,Escherichia coli,8.2,4.7,9.0,1.0,Amoxicillin
+2791,49,1,High,12.4,185115,Salmonella typhi,Klebsiella pneumoniae,8.7,4.6,10.0,0.0,Amoxicillin
+4321,31,1,Low,11.6,275656,Salmonella typhi,Escherichia coli,8.3,5.0,11.0,1.0,Azithromycin
+1924,21,1,Low,13.7,234102,Unknown,Escherichia coli,8.9,12.55823094,5.0,0.0,Amoxicillin
+804,32,0,High,13.9,241071,Unknown,-,8.2,4.9,15.0,1.0,Azithromycin
+4346,23,0,High,12.4,177973,Staphylococcus,Escherichia coli,8.5,3.9,15.0,1.0,Amoxicillin
+4956,48,0,Moderate,10.5,207266,Salmonella typhi,Klebsiella pneumoniae,8.7,3.9,15.0,1.0,Ceftriaxone
+3820,53,0,Moderate,13.8,205110,Salmonella typhi,-,8.7,4.4,6.0,0.0,Ceftriaxone
+1082,40,0,Moderate,14.5,123716,Escherichia coli,-,9.2,4.0,7.0,1.0,Ceftriaxone
+1076,37,1,Low,11.7,153602,Staphylococcus,Escherichia coli,8.3,4.6,11.0,0.0,Ceftriaxone
+963,31,0,Moderate,14.9,202641,Escherichia coli,Escherichia coli,9.6,3.7,8.0,0.0,Ceftriaxone
+4233,28,1,Moderate,13.7,247281,Staphylococcus,-,8.8,4.1,10.0,1.0,Azithromycin
+5465,39,0,High,14.7,245738,Escherichia coli,Klebsiella pneumoniae,9.9,4.0,14.0,0.0,Azithromycin
+5071,43,0,Moderate,10.7,197970,Unknown,Escherichia coli,8.6,4.7,12.0,1.0,Amoxicillin
+4363,41,0,High,20.65419331,226907,Staphylococcus,-,8.0,3.7,8.0,0.0,Ceftriaxone
+3097,70,1,High,13.2,240427,Salmonella typhi,Escherichia coli,9.6,4.6,8.0,1.0,Amoxicillin
+2823,24,1,Low,10.9,239060,Staphylococcus,Klebsiella pneumoniae,9.0,4.0,9.0,1.0,Ceftriaxone
+2908,43,1,Low,11.9,293139,Staphylococcus,Escherichia coli,8.3,3.8,7.0,1.0,Ceftriaxone
+789,63,0,Low,11.0,265338,Escherichia coli,Klebsiella pneumoniae,8.8,4.4,11.0,1.0,Azithromycin
+3669,34,1,Moderate,12.8,275995,Salmonella typhi,-,8.8,4.6,14.0,1.0,Azithromycin
+1915,41,1,High,13.9,178364,Unknown,Klebsiella pneumoniae,9.7,4.2,15.0,0.0,Amoxicillin
+3927,21,1,Low,10.4,174021,Staphylococcus,-,8.6,4.1,9.0,0.0,Ceftriaxone
+3496,31,0,Low,14.9,239852,Unknown,-,8.8,4.2,15.0,1.0,Amoxicillin
+1325,63,1,Low,14.8,232135,Staphylococcus,Klebsiella pneumoniae,9.8,3.8,5.0,1.0,Ceftriaxone
+2714,50,1,Moderate,12.6,263443,Salmonella typhi,Escherichia coli,9.9,4.1,7.0,1.0,Amoxicillin
+3810,39,1,Unknown,13.8,153174,Escherichia coli,-,9.4,4.5,12.0,0.0,Amoxicillin
+4002,48,1,Moderate,12.3,208128,Salmonella typhi,-,8.3,4.3,10.0,1.0,Ceftriaxone
+2682,49,0,Unknown,13.8,204987,Unknown,Klebsiella pneumoniae,8.3,4.4,5.0,1.0,Azithromycin
+3263,64,1,Low,12.6,212644,Salmonella typhi,Klebsiella pneumoniae,9.9,8.986032906,12.0,0.0,Azithromycin
+400,55,1,Moderate,12.2,152381,Staphylococcus,Escherichia coli,9.2,4.0,10.0,0.0,Ceftriaxone
+880,63,0,Low,11.5,174242,Staphylococcus,-,9.3,3.8,7.0,1.0,Azithromycin
+2222,49,1,Moderate,14.6,139074,Escherichia coli,Escherichia coli,8.9,4.5,10.0,1.0,Amoxicillin
+3596,21,1,Low,10.5,194804,Salmonella typhi,Escherichia coli,8.7,4.3,9.0,1.0,Amoxicillin
+5553,25,0,Low,10.7,135912,Escherichia coli,Escherichia coli,9.5,3.7,13.0,1.0,Amoxicillin
+5179,42,1,High,11.4,225541,Staphylococcus,Escherichia coli,9.7,4.9,14.0,1.0,Amoxicillin
+5614,47,0,High,11.1,228631,Escherichia coli,Klebsiella pneumoniae,9.3,3.9,6.0,0.0,Amoxicillin
+3675,66,1,Low,12.2,127651,Staphylococcus,Escherichia coli,8.4,3.5,10.0,1.0,Azithromycin
+2073,60,0,Low,10.6,173041,Staphylococcus,-,9.8,4.2,6.0,0.0,Azithromycin
+123,18,0,Moderate,11.7,228923,Salmonella typhi,Escherichia coli,8.7,4.2,13.0,0.0,Azithromycin
+3289,63,0,Low,11.0,265338,Escherichia coli,Klebsiella pneumoniae,8.8,4.4,11.0,1.0,Azithromycin
+4759,29,1,High,12.7,184020,Unknown,Klebsiella pneumoniae,8.3,3.6,8.0,1.0,Amoxicillin
+4957,43,0,Low,14.2,166308,Salmonella typhi,-,8.5,3.6,8.0,1.0,Azithromycin
+2150,40,1,Moderate,13.2,296947,Staphylococcus,Escherichia coli,9.7,4.7,10.0,0.0,Amoxicillin
+3120,20,1,Low,13.8,283791,Staphylococcus,-,9.3,4.1,13.0,0.0,Azithromycin
+5656,47,1,Low,13.4,219780,Unknown,Escherichia coli,9.1,4.4,9.0,0.0,Amoxicillin
+2048,54,0,High,13.1,149319,Unknown,Klebsiella pneumoniae,8.5,4.7,5.0,0.0,Azithromycin
+3711,57,0,Unknown,10.5,151932,Escherichia coli,-,10.0,3.7,10.0,0.0,Azithromycin
+3582,40,0,Moderate,14.5,123716,Escherichia coli,-,9.2,4.0,7.0,1.0,Ceftriaxone
+2198,24,1,Moderate,13.5,172544,Unknown,-,9.9,4.1,13.0,0.0,Amoxicillin
+5603,59,0,Low,13.8,176029,Salmonella typhi,-,9.9,4.1,8.0,1.0,Azithromycin
+2148,68,0,High,10.8,275083,Salmonella typhi,Escherichia coli,17.21847096,4.7,10.0,1.0,Ceftriaxone
+4402,62,1,Low,14.1,283827,Unknown,Escherichia coli,8.4,4.4,9.0,0.0,Ceftriaxone
+5367,31,1,Low,10.1,222307,Escherichia coli,Escherichia coli,8.8,4.1,6.0,0.0,Ceftriaxone
+1681,46,1,Low,11.2,240018,Staphylococcus,Klebsiella pneumoniae,8.4,3.8,12.0,0.0,Azithromycin
+3175,66,1,Low,12.2,127651,Unknown,Escherichia coli,8.4,3.5,10.0,1.0,Azithromycin
+1542,58,1,Unknown,12.0,179443,Escherichia coli,Escherichia coli,9.5,4.1,9.0,1.0,Ceftriaxone
+4555,30,1,High,11.6,271906,Staphylococcus,Escherichia coli,9.9,4.4,15.0,0.0,Amoxicillin
+3666,23,0,Low,14.0,129476,Staphylococcus,Escherichia coli,9.0,5.0,13.0,1.0,Azithromycin
+2544,46,0,Moderate,11.8,178595,Unknown,Escherichia coli,8.3,3.6,8.0,1.0,Azithromycin
+1929,47,1,Low,11.7,274681,Salmonella typhi,-,8.6,3.8,14.0,1.0,Azithromycin
+5201,48,1,Moderate,10.9,282723,Escherichia coli,Escherichia coli,9.6,3.8,13.0,1.0,Azithromycin
+3516,23,0,Unknown,13.7,268949,Staphylococcus,Escherichia coli,9.3,10.247697,15.0,0.0,Ceftriaxone
+3147,52,0,Low,14.0,142783,Unknown,Klebsiella pneumoniae,9.7,4.0,10.0,0.0,Ceftriaxone
+1909,60,0,Low,13.9,263736,Salmonella typhi,Klebsiella pneumoniae,8.4,3.6,9.0,1.0,Amoxicillin
+1539,55,1,Low,12.1,190759,Escherichia coli,Escherichia coli,8.8,3.9,10.0,0.0,Ceftriaxone
+4842,27,0,Unknown,13.3,189420,Escherichia coli,-,8.3,4.5,7.0,0.0,Amoxicillin
+3965,39,0,High,14.7,245738,Escherichia coli,Klebsiella pneumoniae,9.9,4.0,14.0,0.0,Azithromycin
+3037,34,0,Moderate,10.4,227434,Staphylococcus,Klebsiella pneumoniae,8.9,4.2,6.0,1.0,Azithromycin
+2166,23,0,Low,14.0,129476,Staphylococcus,Escherichia coli,9.0,5.0,13.0,1.0,Azithromycin
+485,45,0,Low,13.5,223823,Staphylococcus,Klebsiella pneumoniae,9.1,4.7,11.0,1.0,Azithromycin
+4132,32,0,High,12.8,217500,Salmonella typhi,Escherichia coli,8.8,4.8,15.0,0.0,Ceftriaxone
+5657,55,1,Low,15.0,163088,Salmonella typhi,Escherichia coli,8.7,4.7,10.0,1.0,Azithromycin
+1132,32,0,High,12.8,217500,Salmonella typhi,Escherichia coli,8.8,4.8,15.0,0.0,Ceftriaxone
+3255,23,0,Moderate,11.1,195391,Escherichia coli,-,8.3,4.9,5.0,1.0,Ceftriaxone
+2961,18,1,Low,11.4,258530,Unknown,Escherichia coli,8.9,4.3,7.0,1.0,Azithromycin
+5374,27,1,Low,14.5,202101,Escherichia coli,Klebsiella pneumoniae,9.6,4.1,10.0,0.0,Ceftriaxone
+3545,44,0,Moderate,14.6,211337,Escherichia coli,Escherichia coli,8.4,3.7,13.0,0.0,Amoxicillin
+1970,22,0,Moderate,12.4,140498,Escherichia coli,-,8.7,5.0,14.0,1.0,Azithromycin
+2281,23,0,Low,14.0,266451,Salmonella typhi,Escherichia coli,8.4,3.8,12.0,1.0,Amoxicillin
+4983,20,1,Moderate,14.9,176456,Salmonella typhi,Escherichia coli,8.4,4.8,10.0,0.0,Ceftriaxone
+2806,27,0,Moderate,13.6,124060,Staphylococcus,-,9.7,5.0,10.0,1.0,Amoxicillin
+4626,24,0,High,13.8,233659,Salmonella typhi,Escherichia coli,9.6,4.3,8.0,1.0,Ceftriaxone
+312,34,0,High,11.7,125929,Escherichia coli,Klebsiella pneumoniae,0.544364267,3.5,10.0,1.0,Ceftriaxone
+4193,58,0,Moderate,10.3,126391,Escherichia coli,Klebsiella pneumoniae,8.6,4.7,10.0,1.0,Amoxicillin
+1914,66,0,Unknown,11.2,250524,Escherichia coli,-,9.0,3.9,8.0,1.0,Amoxicillin
+5027,31,1,Low,10.1,177467,Staphylococcus,Escherichia coli,9.2,4.6,12.0,0.0,Ceftriaxone
+3961,18,1,Low,11.4,258530,Staphylococcus,Escherichia coli,8.9,4.3,10.0,1.0,Azithromycin
+2352,41,1,High,13.9,152225,Salmonella typhi,Klebsiella pneumoniae,9.1,4.0,8.0,0.0,Ceftriaxone
+3932,18,0,Low,10.9,188457,Salmonella typhi,Klebsiella pneumoniae,8.8,3.7,13.0,1.0,Azithromycin
+799,33,0,Unknown,12.5,207422,Unknown,Klebsiella pneumoniae,8.7,4.4,5.0,1.0,Azithromycin
+2712,68,1,High,13.4,165111,Escherichia coli,-,9.9,3.8,14.0,1.0,Ceftriaxone
+5321,31,1,Low,11.6,275656,Salmonella typhi,Escherichia coli,8.3,5.0,11.0,1.0,Azithromycin
+2135,65,0,Low,11.3,142806,Salmonella typhi,Escherichia coli,8.2,4.2,7.0,0.0,Amoxicillin
+2348,55,1,High,11.2,131516,Staphylococcus,Escherichia coli,8.8,4.2,13.0,0.0,Amoxicillin
+2949,65,1,Moderate,11.5,237296,Escherichia coli,Klebsiella pneumoniae,9.9,4.8,13.0,1.0,Amoxicillin
+47,54,1,Moderate,11.0,266999,Staphylococcus,-,8.3,4.9,5.0,0.0,Azithromycin
+3138,53,0,Moderate,14.2,241424,Salmonella typhi,Escherichia coli,9.2,4.8,5.0,1.0,Azithromycin
+2464,20,1,Moderate,10.5,160320,Escherichia coli,Klebsiella pneumoniae,8.7,4.7,10.0,1.0,Azithromycin
+263,64,1,Low,12.6,212644,Salmonella typhi,Klebsiella pneumoniae,9.9,4.6,12.0,0.0,Azithromycin
+3243,22,1,Unknown,14.9,269700,Salmonella typhi,-,8.5,4.1,7.0,1.0,Azithromycin
+1049,68,1,Low,12.8,124105,Salmonella typhi,Klebsiella pneumoniae,8.4,4.8,12.0,0.0,Azithromycin
+5331,35,1,Low,14.1,291619,Escherichia coli,Escherichia coli,9.8,4.4,5.0,1.0,Ceftriaxone
+4612,38,1,Moderate,13.5,210954,Salmonella typhi,Escherichia coli,9.3,4.4,10.0,0.0,Azithromycin
+621,67,0,High,10.2,266270,Escherichia coli,Klebsiella pneumoniae,8.4,4.9,7.0,1.0,Azithromycin
+4661,47,0,High,11.6,191334,Salmonella typhi,Escherichia coli,8.9,4.9,11.0,1.0,Ceftriaxone
+5392,36,0,Moderate,12.0,141211,Escherichia coli,-,8.4,4.5,6.0,1.0,Ceftriaxone
+4120,20,1,Low,13.8,283791,Unknown,-,9.3,4.1,13.0,0.0,Azithromycin
+1141,30,0,High,11.9,292256,Staphylococcus,Klebsiella pneumoniae,9.0,3.8,8.0,0.0,Azithromycin
+3736,35,1,Moderate,11.1,232301,Escherichia coli,Klebsiella pneumoniae,9.2,3.7,6.0,0.0,Azithromycin
+3014,19,0,Low,13.9,229204,Staphylococcus,-,9.6,5.0,12.0,0.0,Ceftriaxone
+4241,70,0,High,13.0,237778,Staphylococcus,Klebsiella pneumoniae,9.6,4.8,5.0,1.0,Amoxicillin
+3002,48,1,Moderate,12.3,208128,Salmonella typhi,-,8.3,4.3,5.0,1.0,Ceftriaxone
+1326,24,0,Unknown,11.9,255792,Salmonella typhi,Escherichia coli,8.9,4.1,12.0,1.0,Amoxicillin
+2869,45,1,Low,10.6,270652,Staphylococcus,Escherichia coli,1.930426101,4.1,6.0,0.0,Ceftriaxone
+4655,36,1,High,10.8,219905,Escherichia coli,Klebsiella pneumoniae,9.1,4.8,6.0,0.0,Ceftriaxone
+1696,41,1,High,10.5,153282,Salmonella typhi,Escherichia coli,9.8,3.9,10.0,1.0,Amoxicillin
+1194,36,0,High,14.7,126949,Salmonella typhi,Escherichia coli,9.8,4.9,15.0,0.0,Azithromycin
+5408,43,1,Low,11.9,293139,Staphylococcus,Escherichia coli,8.3,7.323495566,7.0,1.0,Ceftriaxone
+1278,48,0,Moderate,12.3,228108,Staphylococcus,-,8.9,5.0,7.0,0.0,Azithromycin
+951,21,1,Low,14.5,145663,Escherichia coli,Klebsiella pneumoniae,9.5,4.4,12.0,1.0,Amoxicillin
+3456,48,0,Unknown,10.5,207266,Salmonella typhi,Klebsiella pneumoniae,8.7,3.9,10.0,1.0,Ceftriaxone
+4716,64,0,Moderate,13.6,268625,Escherichia coli,-,9.6,3.6,8.0,0.0,Amoxicillin
+3655,36,1,High,10.8,219905,Escherichia coli,Klebsiella pneumoniae,9.1,4.8,6.0,0.0,Ceftriaxone
+2779,43,1,High,12.0,135752,Salmonella typhi,Klebsiella pneumoniae,10.92111682,4.9,9.0,0.0,Amoxicillin
+3215,54,0,High,10.7,208888,Escherichia coli,-,9.7,4.0,10.0,1.0,Amoxicillin
+1724,22,1,Low,10.3,176742,Unknown,Klebsiella pneumoniae,8.8,4.8,15.0,1.0,Amoxicillin
+521,32,0,Moderate,10.3,269533,Staphylococcus,-,10.0,3.7,8.0,0.0,Amoxicillin
+3131,60,1,Low,12.0,193271,Unknown,Klebsiella pneumoniae,8.5,3.9,14.0,0.0,Amoxicillin
+5425,36,1,Unknown,12.0,186476,Unknown,-,8.6,4.0,10.0,0.0,Azithromycin
+4863,41,0,High,10.3,226907,Staphylococcus,-,8.0,3.7,8.0,0.0,Ceftriaxone
+2948,23,0,Unknown,10.8,297073,Salmonella typhi,Klebsiella pneumoniae,8.1,4.3,7.0,1.0,Amoxicillin
+1445,49,0,Moderate,12.6,227175,Escherichia coli,Escherichia coli,8.1,4.0,9.0,0.0,Ceftriaxone
+3818,43,1,High,12.3,227911,Unknown,Escherichia coli,9.2,4.5,8.0,0.0,Azithromycin
+5232,40,1,Low,11.9,191388,Escherichia coli,-,8.9,4.4,10.0,1.0,Amoxicillin
+1111,55,0,High,20.0235423,241787,Unknown,Escherichia coli,8.5,4.6,10.0,0.0,Ceftriaxone
+1634,34,0,High,12.3,207345,Escherichia coli,-,8.7,3.5,12.0,0.0,Azithromycin
+956,48,0,Moderate,10.5,207266,Salmonella typhi,Klebsiella pneumoniae,8.7,3.9,15.0,1.0,Ceftriaxone
+1737,63,0,Low,14.5,242715,Unknown,Escherichia coli,9.4,4.9,12.0,0.0,Amoxicillin
+4374,27,1,Low,14.5,202101,Escherichia coli,Klebsiella pneumoniae,9.6,4.1,6.0,0.0,Ceftriaxone
+5394,58,0,High,11.5,165463,Escherichia coli,-,9.9,4.7,10.0,0.0,Ceftriaxone
+904,68,0,Low,11.3,280694,Unknown,Escherichia coli,8.5,3.9,14.0,1.0,Azithromycin
+2401,53,1,Moderate,10.9,222298,Staphylococcus,Klebsiella pneumoniae,8.6,4.8,13.0,0.0,Azithromycin
+1702,50,0,High,11.5,178069,Salmonella typhi,Escherichia coli,8.4,4.7,6.0,1.0,Azithromycin
+5416,19,0,Low,12.1,128224,Staphylococcus,Escherichia coli,9.0,4.9,15.0,1.0,Amoxicillin
+2149,45,0,Moderate,10.9,148417,Salmonella typhi,-,10.0,4.1,9.0,0.0,Amoxicillin
+2195,21,1,High,14.5,182597,Unknown,Klebsiella pneumoniae,8.4,4.5,7.0,0.0,Azithromycin
+523,48,1,High,13.2,130876,Salmonella typhi,-,8.3,4.4,15.0,1.0,Ceftriaxone
+3896,51,0,Moderate,12.1,163976,Salmonella typhi,-,0.549030683,3.8,12.0,1.0,Amoxicillin
+4369,45,1,Low,10.6,270652,Staphylococcus,Escherichia coli,8.7,4.1,6.0,0.0,Ceftriaxone
+3769,25,0,High,12.2,293506,Staphylococcus,Klebsiella pneumoniae,8.9,4.1,5.0,1.0,Ceftriaxone
+4482,30,0,Low,12.2,150640,Staphylococcus,-,8.9,3.8,12.0,1.0,Azithromycin
+2742,38,0,High,14.5,161744,Staphylococcus,Klebsiella pneumoniae,9.9,3.8,15.0,1.0,Azithromycin
+2362,65,0,Unknown,10.3,220353,Salmonella typhi,Klebsiella pneumoniae,8.5,4.1,8.0,1.0,Amoxicillin
+1956,48,0,Unknown,20.00120293,207266,Salmonella typhi,Klebsiella pneumoniae,8.7,3.9,10.0,1.0,Ceftriaxone
+3404,68,0,Low,11.3,280694,Unknown,Escherichia coli,8.5,3.9,14.0,1.0,Azithromycin
+546,32,1,High,11.5,204730,Salmonella typhi,Klebsiella pneumoniae,9.7,3.9,13.0,1.0,Amoxicillin
+693,58,0,Unknown,10.3,126391,Escherichia coli,Klebsiella pneumoniae,8.6,4.7,10.0,1.0,Amoxicillin
+2916,19,0,Low,21.58354954,128224,Staphylococcus,Escherichia coli,9.0,4.9,15.0,1.0,Amoxicillin
+4231,31,0,Low,20.99571444,259855,Escherichia coli,Klebsiella pneumoniae,9.1,9.764644724,7.0,1.0,Ceftriaxone
+3207,60,0,Moderate,10.6,256250,Unknown,Escherichia coli,8.1,4.9,10.0,0.0,Azithromycin
+4476,53,1,Low,14.1,125629,Unknown,Escherichia coli,8.6,11.15171013,10.0,0.0,Amoxicillin
+1232,40,1,Low,11.9,191388,Escherichia coli,-,8.9,4.4,10.0,1.0,Amoxicillin
+5735,44,0,Moderate,10.0,211914,Salmonella typhi,Klebsiella pneumoniae,9.8,4.2,10.0,1.0,Amoxicillin
+3615,50,1,Moderate,10.3,227431,Unknown,-,9.9,4.1,10.0,0.0,Amoxicillin
+4624,65,1,High,11.4,153265,Salmonella typhi,Klebsiella pneumoniae,9.5,4.8,12.0,1.0,Amoxicillin
+3648,68,0,High,10.8,275083,Salmonella typhi,Escherichia coli,9.6,4.7,14.0,1.0,Ceftriaxone
+5350,27,0,Unknown,13.1,172393,Unknown,Klebsiella pneumoniae,8.9,3.6,12.0,0.0,Azithromycin
+3122,33,0,Unknown,11.0,141738,Escherichia coli,Klebsiella pneumoniae,8.6,4.7,5.0,0.0,Ceftriaxone
+1020,60,0,Low,11.8,145210,Unknown,Klebsiella pneumoniae,8.0,4.2,5.0,0.0,Azithromycin
+2562,61,0,Moderate,11.6,139761,Staphylococcus,Klebsiella pneumoniae,9.4,3.8,13.0,1.0,Azithromycin
+3981,53,0,High,13.7,238248,Salmonella typhi,Klebsiella pneumoniae,8.5,4.1,7.0,0.0,Ceftriaxone
+3674,42,0,Moderate,14.7,298403,Salmonella typhi,-,8.4,7.593963618,6.0,1.0,Amoxicillin
+3663,44,0,Low,14.9,237458,Staphylococcus,-,9.0,4.9,10.0,0.0,Azithromycin
+4198,24,1,Moderate,13.5,172544,Staphylococcus,-,9.9,4.1,13.0,0.0,Amoxicillin
+1853,44,1,Moderate,12.5,194850,Salmonella typhi,-,10.0,4.5,9.0,1.0,Azithromycin
+4824,67,1,High,13.6,188685,Escherichia coli,Escherichia coli,8.3,4.7,11.0,0.0,Ceftriaxone
+1117,53,1,High,14.6,128488,Escherichia coli,Klebsiella pneumoniae,14.38164884,4.7,9.0,0.0,Azithromycin
+1902,62,1,Low,14.1,283827,Escherichia coli,Escherichia coli,8.4,4.4,9.0,0.0,Ceftriaxone
+973,56,0,High,14.8,198377,Salmonella typhi,Klebsiella pneumoniae,8.1,4.2,10.0,0.0,Amoxicillin
+3199,35,0,Low,12.4,229907,Unknown,Escherichia coli,9.9,4.4,10.0,1.0,Azithromycin
+5628,31,1,Moderate,21.19472449,203732,Unknown,Klebsiella pneumoniae,8.0,3.9,11.0,1.0,Ceftriaxone
+3883,33,0,Unknown,11.6,269082,Staphylococcus,Escherichia coli,9.4,3.9,10.0,0.0,Azithromycin
+399,25,1,High,14.7,196015,Escherichia coli,-,9.9,3.8,13.0,0.0,Ceftriaxone
+31,34,0,High,13.8,139590,Escherichia coli,Escherichia coli,8.5,4.4,6.0,0.0,Amoxicillin
+3794,22,1,Low,14.4,233424,Escherichia coli,-,9.3,3.7,14.0,1.0,Ceftriaxone
+4168,56,1,Low,11.4,226983,Escherichia coli,-,8.0,11.92592201,9.0,1.0,Amoxicillin
+3105,53,1,High,14.5,138711,Staphylococcus,-,9.4,4.7,8.0,1.0,Azithromycin
+1864,55,1,High,12.3,260544,Unknown,Klebsiella pneumoniae,9.0,3.5,6.0,0.0,Ceftriaxone
+4656,47,1,Low,13.4,219780,Salmonella typhi,Escherichia coli,9.1,4.4,9.0,0.0,Amoxicillin
+60,40,1,High,14.0,240563,Escherichia coli,Klebsiella pneumoniae,8.0,4.6,11.0,0.0,Ceftriaxone
+5427,21,1,Low,10.4,174021,Staphylococcus,-,8.6,4.1,9.0,0.0,Ceftriaxone
+3542,58,1,Moderate,20.96688619,179443,Escherichia coli,Escherichia coli,9.5,4.1,9.0,1.0,Ceftriaxone
+3639,41,1,Low,11.1,275734,Salmonella typhi,Klebsiella pneumoniae,9.1,4.7,8.0,1.0,Amoxicillin
+3416,19,0,Low,12.1,128224,Staphylococcus,Escherichia coli,9.0,4.9,15.0,1.0,Amoxicillin
+2698,24,1,Unknown,13.5,172544,Staphylococcus,-,9.9,4.1,10.0,0.0,Amoxicillin
+4756,31,0,Low,10.6,251934,Staphylococcus,Escherichia coli,9.8,4.1,8.0,0.0,Azithromycin
+3672,63,1,Moderate,10.4,123473,Escherichia coli,-,8.8,4.0,7.0,1.0,Azithromycin
+630,49,0,Low,11.3,247396,Staphylococcus,-,8.8,4.6,15.0,1.0,Amoxicillin
+5129,58,0,Moderate,12.1,155222,Escherichia coli,Escherichia coli,8.5,4.1,10.0,0.0,Azithromycin
+1379,47,0,High,12.0,155402,Salmonella typhi,Escherichia coli,8.9,4.7,5.0,0.0,Amoxicillin
+856,29,0,Moderate,12.6,277098,Staphylococcus,Escherichia coli,8.5,4.8,6.0,0.0,Azithromycin
+4493,32,0,Moderate,13.6,177667,Unknown,Klebsiella pneumoniae,8.3,3.5,11.0,0.0,Azithromycin
+1536,48,0,Moderate,12.1,213106,Unknown,-,8.7,4.4,10.0,0.0,Ceftriaxone
+5634,34,0,High,12.3,207345,Escherichia coli,-,8.7,3.5,10.0,0.0,Azithromycin
+19,48,1,High,12.1,233494,Salmonella typhi,-,8.4,4.9,10.0,0.0,Ceftriaxone
+4062,61,0,Moderate,11.6,139761,Staphylococcus,Klebsiella pneumoniae,9.4,3.8,13.0,1.0,Azithromycin
+4917,33,1,Low,13.8,264150,Unknown,Escherichia coli,8.9,4.2,8.0,0.0,Amoxicillin
+2866,70,0,Low,10.6,246631,Unknown,-,9.1,4.5,11.0,0.0,Amoxicillin
+3386,42,1,High,11.5,120681,Escherichia coli,-,8.8,4.3,12.0,0.0,Ceftriaxone
+433,46,1,High,11.3,233748,Staphylococcus,Escherichia coli,9.6,4.3,15.0,0.0,Azithromycin
+2435,46,0,Unknown,11.7,292432,Unknown,Escherichia coli,8.4,4.9,14.0,0.0,Ceftriaxone
+1799,33,0,High,12.5,207422,Salmonella typhi,Klebsiella pneumoniae,8.7,4.4,5.0,1.0,Azithromycin
+4840,36,1,Low,13.6,237925,Escherichia coli,Escherichia coli,9.6,4.7,5.0,1.0,Azithromycin
+452,23,1,Moderate,14.6,192384,Staphylococcus,Escherichia coli,9.2,4.5,5.0,0.0,Azithromycin
+2442,32,1,High,13.4,224017,Escherichia coli,Escherichia coli,9.6,8.170833145,9.0,0.0,Amoxicillin
+1203,32,0,Low,11.1,171322,Escherichia coli,-,9.7,4.5,10.0,1.0,Ceftriaxone
+4086,59,1,Moderate,13.5,247444,Unknown,Klebsiella pneumoniae,9.4,3.5,12.0,0.0,Amoxicillin
+4005,67,1,Unknown,13.1,217075,Salmonella typhi,Escherichia coli,9.8,5.0,13.0,1.0,Amoxicillin
+2269,25,0,High,12.2,293506,Staphylococcus,Klebsiella pneumoniae,8.9,4.1,5.0,1.0,Ceftriaxone
+5378,62,0,Low,11.0,153088,Salmonella typhi,Escherichia coli,9.8,4.6,5.0,0.0,Amoxicillin
+345,41,0,Low,14.9,282074,Unknown,Klebsiella pneumoniae,9.1,4.9,11.0,0.0,Azithromycin
+788,51,1,Unknown,11.4,179461,Salmonella typhi,Escherichia coli,9.1,4.5,5.0,1.0,Ceftriaxone
+346,23,0,High,12.4,177973,Staphylococcus,Escherichia coli,8.5,3.9,15.0,1.0,Amoxicillin
+4943,38,1,Moderate,10.2,122498,Staphylococcus,-,9.1,4.6,12.0,0.0,Ceftriaxone
+4462,18,1,Unknown,13.9,136774,Escherichia coli,-,9.8,5.0,8.0,1.0,Amoxicillin
+4854,43,1,High,11.8,204601,Escherichia coli,-,8.0,3.7,10.0,1.0,Amoxicillin
+757,44,1,Low,11.0,269761,Escherichia coli,Klebsiella pneumoniae,8.3,4.0,5.0,1.0,Ceftriaxone
+4144,58,1,Moderate,13.6,250807,Escherichia coli,-,8.9,3.7,14.0,0.0,Ceftriaxone
+3369,45,1,Low,10.6,270652,Staphylococcus,Escherichia coli,8.7,12.95118707,6.0,0.0,Ceftriaxone
+2922,65,0,Moderate,12.8,200217,Salmonella typhi,-,9.0,5.0,12.0,0.0,Azithromycin
+1581,42,0,Moderate,11.8,241035,Escherichia coli,Klebsiella pneumoniae,8.2,4.8,6.0,0.0,Ceftriaxone
+5591,42,1,Unknown,11.3,175743,Staphylococcus,-,8.9,4.5,9.0,0.0,Amoxicillin
+3834,57,0,Moderate,11.7,196658,Staphylococcus,-,8.4,4.5,8.0,1.0,Ceftriaxone
+2670,24,0,Moderate,14.7,203401,Salmonella typhi,-,8.0,3.8,14.0,0.0,Ceftriaxone
+1710,57,1,High,11.2,152117,Escherichia coli,Escherichia coli,9.3,6.262950824,15.0,1.0,Azithromycin
+1591,42,1,Low,11.3,175743,Unknown,-,8.9,4.5,9.0,0.0,Amoxicillin
+302,32,1,Low,12.3,203540,Escherichia coli,Escherichia coli,8.4,4.8,12.0,0.0,Azithromycin
+1331,35,1,Low,14.1,291619,Escherichia coli,Escherichia coli,9.8,4.4,5.0,1.0,Ceftriaxone
+2897,26,0,Moderate,11.4,222508,Escherichia coli,-,9.6,3.5,10.0,1.0,Azithromycin
+4556,59,0,Low,12.7,133464,Escherichia coli,Escherichia coli,2.909206351,3.7,13.0,1.0,Amoxicillin
+862,65,0,High,10.3,220353,Salmonella typhi,Klebsiella pneumoniae,8.5,4.1,10.0,1.0,Amoxicillin
+295,18,1,Moderate,10.8,224095,Salmonella typhi,Escherichia coli,10.0,4.0,8.0,1.0,Azithromycin
+650,40,1,Moderate,13.2,296947,Staphylococcus,Escherichia coli,9.7,4.7,10.0,0.0,Amoxicillin
+735,44,0,Moderate,10.0,211914,Salmonella typhi,Klebsiella pneumoniae,9.8,4.2,8.0,1.0,Amoxicillin
+4671,53,1,High,14.6,212127,Salmonella typhi,Escherichia coli,9.8,4.0,10.0,0.0,Amoxicillin
+3857,39,1,Moderate,10.4,152731,Staphylococcus,Klebsiella pneumoniae,8.1,4.7,7.0,0.0,Ceftriaxone
+5026,21,1,Moderate,10.9,147819,Salmonella typhi,Escherichia coli,8.8,4.5,10.0,1.0,Azithromycin
+1510,24,1,Unknown,13.2,162206,Escherichia coli,Klebsiella pneumoniae,8.135439909,4.2,6.0,1.0,Ceftriaxone
+2002,48,1,Unknown,12.3,208128,Salmonella typhi,-,8.3,4.3,5.0,1.0,Ceftriaxone
+3897,26,0,Moderate,11.4,222508,Escherichia coli,-,9.6,3.5,10.0,1.0,Azithromycin
+2629,58,0,Moderate,12.1,155222,Escherichia coli,Escherichia coli,8.5,8.685200143,10.0,0.0,Azithromycin
+225,31,0,Moderate,12.0,265666,Unknown,Klebsiella pneumoniae,9.0,4.8,13.0,1.0,Amoxicillin
+3679,42,1,High,11.4,225541,Staphylococcus,Escherichia coli,9.7,9.515796558,10.0,1.0,Amoxicillin
+5631,60,1,Low,24.45878465,193271,Salmonella typhi,Klebsiella pneumoniae,8.5,3.9,14.0,0.0,Amoxicillin
+1493,32,0,Moderate,13.6,177667,Salmonella typhi,Klebsiella pneumoniae,8.3,3.5,11.0,0.0,Azithromycin
+2000,68,0,High,13.9,262155,Salmonella typhi,Escherichia coli,9.0,4.2,8.0,1.0,Azithromycin
+4588,42,1,Low,14.0,285053,Staphylococcus,Escherichia coli,14.43239876,12.02621488,6.0,0.0,Amoxicillin
+4484,58,1,Low,10.2,191834,Staphylococcus,Klebsiella pneumoniae,9.2,4.2,14.0,0.0,Ceftriaxone
+3201,48,1,Moderate,10.9,282723,Escherichia coli,Escherichia coli,9.6,3.8,13.0,1.0,Azithromycin
+3784,59,0,High,13.3,177558,Staphylococcus,Escherichia coli,9.7,4.8,10.0,1.0,Ceftriaxone
+5742,38,0,High,14.5,161744,Staphylococcus,Klebsiella pneumoniae,9.9,3.8,15.0,1.0,Azithromycin
+1774,51,0,Low,10.4,292860,Staphylococcus,Escherichia coli,25.22548477,3.7,14.0,1.0,Azithromycin
+2123,18,0,Moderate,11.7,228923,Salmonella typhi,Escherichia coli,8.7,4.2,10.0,0.0,Azithromycin
+3517,50,0,Moderate,14.4,282514,Salmonella typhi,Escherichia coli,9.7,3.6,9.0,1.0,Amoxicillin
+4860,25,1,Low,13.1,211847,Unknown,-,9.1,4.0,15.0,1.0,Ceftriaxone
+3075,38,0,Low,12.8,126804,Staphylococcus,Klebsiella pneumoniae,9.4,3.9,10.0,0.0,Ceftriaxone
+3614,47,0,High,11.1,228631,Escherichia coli,Klebsiella pneumoniae,9.3,3.9,10.0,0.0,Amoxicillin
+1584,38,1,Moderate,12.7,222301,Staphylococcus,Klebsiella pneumoniae,18.46927756,3.7,14.0,1.0,Ceftriaxone
+926,50,0,High,10.9,226451,Unknown,Klebsiella pneumoniae,8.7,4.6,14.0,0.0,Azithromycin
+451,21,1,Low,20.16953662,145663,Escherichia coli,Klebsiella pneumoniae,3.855649768,4.4,12.0,1.0,Amoxicillin
+5387,58,1,High,24.97363304,154557,Staphylococcus,-,8.4,4.6,5.0,0.0,Amoxicillin
+1441,40,0,Low,13.8,171420,Staphylococcus,-,9.5,4.3,8.0,1.0,Ceftriaxone
+5415,41,1,High,13.9,178364,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,15.0,0.0,Amoxicillin
+4829,67,0,High,10.4,273449,Salmonella typhi,-,8.9,3.5,7.0,0.0,Amoxicillin
+1253,58,1,Moderate,13.0,218991,Unknown,Klebsiella pneumoniae,8.1,4.2,5.0,0.0,Ceftriaxone
+5613,26,0,Low,12.9,286100,Salmonella typhi,Klebsiella pneumoniae,9.2,4.5,10.0,0.0,Amoxicillin
+1557,40,1,High,10.8,143215,Staphylococcus,Escherichia coli,9.0,3.8,7.0,0.0,Amoxicillin
+4855,49,1,High,10.1,125026,Escherichia coli,-,8.9,4.5,10.0,0.0,Azithromycin
+4244,32,1,Moderate,22.22241293,271383,Salmonella typhi,-,8.7,4.1,10.0,1.0,Amoxicillin
+2291,49,1,High,12.4,185115,Salmonella typhi,Klebsiella pneumoniae,8.7,8.448882498,9.0,0.0,Amoxicillin
+12,64,1,Moderate,13.8,168887,Staphylococcus,Escherichia coli,8.7,4.9,8.0,1.0,Azithromycin
+2984,58,1,Low,10.2,191834,Unknown,Klebsiella pneumoniae,9.2,4.2,10.0,0.0,Ceftriaxone
+73,60,0,Low,10.6,173041,Unknown,-,9.8,4.2,6.0,0.0,Azithromycin
+3817,42,1,Moderate,11.9,136833,Staphylococcus,-,9.3,4.6,8.0,1.0,Azithromycin
+4916,19,0,Low,12.1,128224,Staphylococcus,Escherichia coli,9.0,4.9,15.0,1.0,Amoxicillin
+5570,34,1,Low,11.0,299040,Staphylococcus,-,9.9,4.0,12.0,1.0,Ceftriaxone
+3966,55,1,Low,10.8,175100,Escherichia coli,Escherichia coli,9.0,4.7,15.0,1.0,Azithromycin
+1986,47,1,Moderate,10.5,296049,Staphylococcus,Klebsiella pneumoniae,9.6,4.8,7.0,0.0,Azithromycin
+2466,55,1,Low,23.08868251,175100,Unknown,Escherichia coli,9.0,4.7,15.0,1.0,Azithromycin
+386,42,1,Unknown,11.5,120681,Escherichia coli,-,8.8,4.3,12.0,0.0,Ceftriaxone
+885,63,1,Low,14.0,229818,Salmonella typhi,Klebsiella pneumoniae,8.2,4.2,8.0,1.0,Ceftriaxone
+2700,51,0,Moderate,13.6,289899,Unknown,Klebsiella pneumoniae,9.5,4.6,6.0,1.0,Amoxicillin
+3464,20,1,Unknown,23.95878014,160320,Escherichia coli,Klebsiella pneumoniae,8.7,4.7,10.0,1.0,Azithromycin
+257,44,1,Low,11.0,269761,Unknown,Klebsiella pneumoniae,8.3,4.0,5.0,1.0,Ceftriaxone
+4437,55,0,Low,11.6,241507,Escherichia coli,Klebsiella pneumoniae,8.9,4.6,12.0,0.0,Azithromycin
+1009,28,0,Moderate,14.7,250223,Staphylococcus,-,9.6,4.1,5.0,1.0,Ceftriaxone
+373,19,0,High,12.1,254478,Staphylococcus,Escherichia coli,8.2,3.8,12.0,1.0,Azithromycin
+5381,29,0,Unknown,13.8,178039,Staphylococcus,Escherichia coli,9.5,4.6,9.0,0.0,Amoxicillin
+2558,31,0,Low,13.3,169281,Escherichia coli,Escherichia coli,9.9,4.0,10.0,0.0,Ceftriaxone
+5017,50,0,Moderate,14.4,282514,Salmonella typhi,Escherichia coli,9.7,3.6,9.0,1.0,Amoxicillin
+2310,39,1,Moderate,13.8,153174,Escherichia coli,-,9.4,4.5,12.0,0.0,Amoxicillin
+1219,31,1,Low,12.9,167056,Salmonella typhi,-,8.9,4.3,10.0,0.0,Amoxicillin
+479,29,0,High,14.1,286194,Escherichia coli,Klebsiella pneumoniae,9.2,3.7,7.0,1.0,Ceftriaxone
+5586,59,1,Moderate,13.5,247444,Escherichia coli,Klebsiella pneumoniae,9.4,3.5,12.0,0.0,Amoxicillin
+1836,62,0,High,14.2,222478,Escherichia coli,Klebsiella pneumoniae,0.176979732,3.7,7.0,0.0,Ceftriaxone
+1013,37,0,Moderate,11.1,178774,Escherichia coli,-,10.0,4.0,15.0,1.0,Azithromycin
+2594,21,0,High,14.2,180288,Unknown,-,9.1,3.5,7.0,0.0,Amoxicillin
+4466,55,1,Low,10.8,175100,Escherichia coli,Escherichia coli,9.0,4.7,15.0,1.0,Azithromycin
+5034,53,1,High,13.8,254835,Escherichia coli,Escherichia coli,8.4,4.9,8.0,1.0,Ceftriaxone
+2311,55,0,High,14.7,135664,Staphylococcus,Klebsiella pneumoniae,10.0,5.0,12.0,0.0,Amoxicillin
+4320,53,0,Moderate,13.8,205110,Salmonella typhi,-,8.7,4.4,6.0,0.0,Ceftriaxone
+3636,55,1,Low,11.1,232215,Staphylococcus,Klebsiella pneumoniae,8.0,4.7,10.0,1.0,Azithromycin
+3665,46,0,Low,14.5,212879,Staphylococcus,-,1.426387009,4.9,6.0,0.0,Amoxicillin
+3510,24,1,Moderate,13.2,162206,Escherichia coli,Klebsiella pneumoniae,9.3,4.2,6.0,1.0,Ceftriaxone
+4767,37,0,High,13.6,272076,Unknown,Klebsiella pneumoniae,8.8,3.5,13.0,1.0,Azithromycin
+41,68,1,Low,13.4,240767,Unknown,Klebsiella pneumoniae,9.0,4.4,6.0,1.0,Ceftriaxone
+1892,36,0,Moderate,12.0,141211,Unknown,-,8.4,4.5,6.0,1.0,Ceftriaxone
+1200,51,0,Moderate,13.6,289899,Escherichia coli,Klebsiella pneumoniae,9.5,4.6,6.0,1.0,Amoxicillin
+2863,41,0,High,10.3,226907,Staphylococcus,-,8.0,3.7,8.0,0.0,Ceftriaxone
+5255,23,0,Moderate,11.1,195391,Escherichia coli,-,8.3,4.9,5.0,1.0,Ceftriaxone
+5727,65,0,Low,11.5,264097,Escherichia coli,Escherichia coli,8.3,4.5,14.0,1.0,Amoxicillin
+2413,68,0,Low,20.15559758,168405,Escherichia coli,Escherichia coli,8.9,4.4,10.0,1.0,Azithromycin
+5619,29,1,Low,12.3,169752,Staphylococcus,-,9.7,13.3992701,10.0,0.0,Amoxicillin
+3021,32,0,Moderate,10.3,269533,Staphylococcus,-,10.0,3.7,8.0,0.0,Amoxicillin
+190,26,1,Moderate,13.7,159499,Escherichia coli,-,10.0,4.5,5.0,0.0,Ceftriaxone
+3612,38,1,Moderate,13.5,210954,Salmonella typhi,Escherichia coli,9.3,4.4,5.0,0.0,Azithromycin
+5620,20,1,Low,13.8,283791,Staphylococcus,-,9.3,4.1,13.0,0.0,Azithromycin
+3785,61,0,High,13.3,228861,Escherichia coli,-,8.3,3.9,11.0,1.0,Ceftriaxone
+1147,52,0,Low,14.0,142783,Escherichia coli,Klebsiella pneumoniae,9.7,7.504010246,8.0,0.0,Ceftriaxone
+1689,24,1,Moderate,11.0,138251,Unknown,-,9.9,4.6,5.0,1.0,Azithromycin
+5494,28,0,Moderate,10.4,181154,Staphylococcus,Klebsiella pneumoniae,9.7,4.5,6.0,0.0,Amoxicillin
+3,33,1,High,10.7,251028,Escherichia coli,-,10.0,3.8,15.0,0.0,Azithromycin
+247,54,1,High,12.4,197608,Escherichia coli,Klebsiella pneumoniae,8.4,4.0,11.0,0.0,Ceftriaxone
+4534,53,1,High,21.15937059,254835,Escherichia coli,Escherichia coli,8.4,4.9,8.0,1.0,Ceftriaxone
+2551,41,0,Low,14.6,132423,Salmonella typhi,Klebsiella pneumoniae,9.3,4.8,6.0,1.0,Ceftriaxone
+691,48,1,Low,14.7,120593,Escherichia coli,Klebsiella pneumoniae,8.1,3.9,7.0,0.0,Amoxicillin
+2077,34,1,Unknown,14.8,120255,Staphylococcus,Escherichia coli,9.9,3.9,8.0,1.0,Ceftriaxone
+1999,19,0,Moderate,10.7,281796,Staphylococcus,Escherichia coli,8.5,4.9,14.0,1.0,Azithromycin
+3601,38,0,Low,13.9,293212,Escherichia coli,Klebsiella pneumoniae,9.2,3.8,12.0,1.0,Azithromycin
+4520,60,0,Low,11.8,145210,Unknown,Klebsiella pneumoniae,8.0,4.2,5.0,0.0,Azithromycin
+2757,44,1,Low,11.0,269761,Escherichia coli,Klebsiella pneumoniae,8.3,4.0,5.0,1.0,Ceftriaxone
+4953,42,1,High,14.4,134382,Escherichia coli,-,8.7,3.7,9.0,1.0,Ceftriaxone
+770,25,0,Low,10.2,232223,Escherichia coli,Escherichia coli,9.2,12.16333924,10.0,1.0,Ceftriaxone
+168,56,1,Low,11.4,226983,Escherichia coli,-,47.13657066,3.9,9.0,1.0,Amoxicillin
+3326,24,0,Moderate,11.9,255792,Salmonella typhi,Escherichia coli,8.9,7.696525405,10.0,1.0,Amoxicillin
+1990,33,0,High,11.0,183052,Escherichia coli,Escherichia coli,8.6,4.8,5.0,0.0,Azithromycin
+2028,64,0,Low,12.8,186709,Escherichia coli,Klebsiella pneumoniae,8.8,4.7,10.0,1.0,Amoxicillin
+2373,19,0,High,12.1,254478,Staphylococcus,Escherichia coli,8.2,3.8,10.0,1.0,Azithromycin
+2308,60,1,Unknown,11.4,258260,Escherichia coli,Klebsiella pneumoniae,8.8,4.0,6.0,1.0,Ceftriaxone
+1022,20,1,Low,14.2,232404,Staphylococcus,Escherichia coli,9.3,3.8,7.0,1.0,Ceftriaxone
+4984,58,1,Low,10.2,191834,Staphylococcus,Klebsiella pneumoniae,9.2,4.2,14.0,0.0,Ceftriaxone
+5198,24,1,Moderate,13.5,172544,Staphylococcus,-,9.9,4.1,13.0,0.0,Amoxicillin
+4771,31,1,Moderate,13.8,297910,Escherichia coli,Klebsiella pneumoniae,9.2,4.3,8.0,1.0,Azithromycin
+333,39,0,Moderate,15.0,188616,Salmonella typhi,-,9.5,4.7,13.0,1.0,Azithromycin
+3698,24,1,Moderate,13.5,172544,Staphylococcus,-,9.9,4.1,13.0,0.0,Amoxicillin
+2116,59,0,High,13.9,275815,Escherichia coli,Escherichia coli,9.6,4.1,9.0,1.0,Ceftriaxone
+3195,21,1,Unknown,14.5,182597,Escherichia coli,Klebsiella pneumoniae,8.4,4.5,7.0,0.0,Azithromycin
+4052,49,1,Low,10.4,203504,Staphylococcus,Klebsiella pneumoniae,8.7,4.8,14.0,0.0,Amoxicillin
+1442,32,1,High,13.4,224017,Escherichia coli,Escherichia coli,9.6,4.0,9.0,0.0,Amoxicillin
+5450,66,1,Low,10.3,171858,Salmonella typhi,Klebsiella pneumoniae,9.6,4.9,10.0,1.0,Ceftriaxone
+932,18,0,Unknown,10.9,188457,Salmonella typhi,Klebsiella pneumoniae,8.8,3.7,13.0,1.0,Azithromycin
+4405,21,1,Moderate,10.6,226577,Staphylococcus,-,8.8,3.9,10.0,0.0,Amoxicillin
+5153,22,0,Unknown,10.2,171452,Unknown,Klebsiella pneumoniae,8.4,3.7,10.0,1.0,Ceftriaxone
+2586,59,1,Unknown,13.5,247444,Escherichia coli,Klebsiella pneumoniae,9.4,12.46009015,12.0,0.0,Amoxicillin
+3313,59,1,High,12.2,262214,Salmonella typhi,Klebsiella pneumoniae,9.2,3.5,9.0,1.0,Amoxicillin
+2427,21,1,Low,10.4,174021,Staphylococcus,-,8.6,4.1,10.0,0.0,Ceftriaxone
+4928,49,1,High,14.7,285788,Salmonella typhi,-,8.2,8.338849188,15.0,1.0,Azithromycin
+1850,27,0,Unknown,13.1,172393,Salmonella typhi,Klebsiella pneumoniae,8.9,3.6,12.0,0.0,Azithromycin
+2849,58,0,Moderate,13.3,266849,Staphylococcus,Klebsiella pneumoniae,8.4,4.7,9.0,1.0,Amoxicillin
+152,29,0,Low,11.7,257674,Staphylococcus,-,8.3,4.2,8.0,1.0,Amoxicillin
+1204,38,1,High,11.6,238774,Salmonella typhi,Klebsiella pneumoniae,9.4,4.2,10.0,0.0,Amoxicillin
+3402,62,1,Low,14.1,283827,Escherichia coli,Escherichia coli,8.4,4.4,9.0,0.0,Ceftriaxone
+476,53,1,Low,14.1,125629,Salmonella typhi,Escherichia coli,8.6,4.9,6.0,0.0,Amoxicillin
+5451,21,1,Low,14.5,145663,Escherichia coli,Klebsiella pneumoniae,9.5,4.4,12.0,1.0,Amoxicillin
+2940,32,1,High,10.4,235876,Staphylococcus,Klebsiella pneumoniae,8.6,4.1,14.0,1.0,Azithromycin
+4727,65,0,Low,11.5,264097,Escherichia coli,Escherichia coli,8.3,4.5,14.0,1.0,Amoxicillin
+2393,36,0,Low,10.7,282394,Escherichia coli,Klebsiella pneumoniae,9.5,4.7,5.0,0.0,Amoxicillin
+2761,32,1,Low,24.50042109,130848,Salmonella typhi,-,9.5,4.5,9.0,0.0,Ceftriaxone
+315,42,0,Unknown,14.7,230812,Escherichia coli,Escherichia coli,9.8,4.5,10.0,1.0,Amoxicillin
+2526,21,1,Unknown,10.9,147819,Unknown,Escherichia coli,8.8,4.5,13.0,1.0,Azithromycin
+2545,44,0,Moderate,23.90735061,211337,Escherichia coli,Escherichia coli,8.4,3.7,10.0,0.0,Amoxicillin
+3024,53,1,Low,12.3,196866,Unknown,-,8.2,3.7,14.0,0.0,Ceftriaxone
+3004,56,1,High,14.9,157787,Salmonella typhi,Klebsiella pneumoniae,9.4,3.7,13.0,1.0,Ceftriaxone
+2674,42,0,Moderate,14.7,298403,Salmonella typhi,-,8.4,4.7,6.0,1.0,Amoxicillin
+940,32,1,High,10.4,235876,Staphylococcus,Klebsiella pneumoniae,2.319791053,4.1,14.0,1.0,Azithromycin
+4583,53,1,Low,14.1,282754,Staphylococcus,-,8.0,5.0,8.0,1.0,Ceftriaxone
+3560,40,1,High,14.0,240563,Escherichia coli,Klebsiella pneumoniae,8.0,4.6,10.0,0.0,Ceftriaxone
+4888,35,1,High,11.3,228269,Salmonella typhi,Klebsiella pneumoniae,8.1,4.2,12.0,1.0,Azithromycin
+853,44,1,Moderate,12.5,194850,Salmonella typhi,-,10.0,4.5,9.0,1.0,Azithromycin
+5087,67,1,Moderate,13.2,143442,Staphylococcus,Escherichia coli,28.58614047,4.7,6.0,0.0,Azithromycin
+1287,32,1,Low,13.7,159786,Salmonella typhi,Klebsiella pneumoniae,8.5,4.4,8.0,1.0,Amoxicillin
+3942,32,1,High,13.4,224017,Escherichia coli,Escherichia coli,4.424174836,4.0,9.0,0.0,Amoxicillin
+1215,54,0,High,10.7,208888,Escherichia coli,-,9.7,4.0,10.0,1.0,Amoxicillin
+3012,64,1,Moderate,13.8,168887,Staphylococcus,Escherichia coli,8.7,4.9,8.0,1.0,Azithromycin
+2799,33,0,High,21.2870441,207422,Salmonella typhi,Klebsiella pneumoniae,8.7,4.4,5.0,1.0,Azithromycin
+978,33,1,High,12.4,227708,Unknown,-,9.7,4.8,13.0,0.0,Azithromycin
+3878,62,0,Low,11.0,153088,Salmonella typhi,Escherichia coli,9.8,4.6,5.0,0.0,Amoxicillin
+3978,33,1,High,12.4,227708,Escherichia coli,-,9.7,4.8,13.0,0.0,Azithromycin
+3140,41,1,Low,14.0,219718,Staphylococcus,Klebsiella pneumoniae,8.0,4.1,14.0,1.0,Amoxicillin
+4150,40,1,Unknown,13.2,296947,Staphylococcus,Escherichia coli,9.7,13.41336387,10.0,0.0,Amoxicillin
+1401,53,1,Moderate,21.19362507,222298,Staphylococcus,Klebsiella pneumoniae,8.6,4.8,13.0,0.0,Azithromycin
+2218,47,0,High,10.0,244392,Staphylococcus,Escherichia coli,8.4,5.0,12.0,0.0,Ceftriaxone
+52,49,1,Low,10.4,203504,Staphylococcus,Klebsiella pneumoniae,8.7,4.8,14.0,0.0,Amoxicillin
+4085,53,1,Moderate,13.9,206539,Salmonella typhi,-,9.7,4.5,13.0,1.0,Ceftriaxone
+3089,47,0,Moderate,10.5,256449,Salmonella typhi,-,9.9,4.2,7.0,0.0,Azithromycin
+249,61,1,High,10.9,221440,Staphylococcus,Escherichia coli,9.2,4.9,7.0,0.0,Amoxicillin
+1979,29,0,High,14.1,286194,Escherichia coli,Klebsiella pneumoniae,9.2,3.7,7.0,1.0,Ceftriaxone
+5329,67,0,High,10.4,273449,Unknown,-,8.9,3.5,7.0,0.0,Amoxicillin
+3316,37,1,Low,13.0,182340,Staphylococcus,Klebsiella pneumoniae,8.9,3.8,7.0,0.0,Ceftriaxone
+1982,30,0,Low,12.2,150640,Unknown,-,8.9,3.8,12.0,1.0,Azithromycin
+2693,58,0,Moderate,24.97209536,126391,Escherichia coli,Klebsiella pneumoniae,8.6,4.7,10.0,1.0,Amoxicillin
+740,54,1,High,12.4,187155,Staphylococcus,Klebsiella pneumoniae,9.0,3.6,8.0,0.0,Ceftriaxone
+3618,32,1,Low,10.5,256889,Unknown,Klebsiella pneumoniae,9.7,4.2,6.0,1.0,Amoxicillin
+1668,56,1,Low,11.4,226983,Escherichia coli,-,8.0,3.9,9.0,1.0,Amoxicillin
+582,40,0,Moderate,14.5,123716,Escherichia coli,-,9.2,4.0,7.0,1.0,Ceftriaxone
+3073,60,0,Low,10.6,173041,Staphylococcus,-,9.8,4.2,6.0,0.0,Azithromycin
+1273,57,0,Low,14.0,206089,Escherichia coli,-,8.6,4.5,10.0,1.0,Azithromycin
+1585,53,1,Moderate,13.9,206539,Salmonella typhi,-,9.7,4.5,13.0,1.0,Ceftriaxone
+4017,50,0,Moderate,14.4,282514,Salmonella typhi,Escherichia coli,9.7,3.6,9.0,1.0,Amoxicillin
+5412,46,1,Moderate,13.8,135292,Unknown,-,9.0,4.8,9.0,0.0,Azithromycin
+2911,51,0,Low,10.8,258485,Unknown,Escherichia coli,8.0,4.6,11.0,0.0,Ceftriaxone
+5118,32,1,Low,10.5,256889,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,6.0,1.0,Amoxicillin
+1274,51,0,Unknown,10.4,292860,Staphylococcus,Escherichia coli,9.4,3.7,10.0,1.0,Azithromycin
+2182,49,0,High,13.8,204987,Staphylococcus,Klebsiella pneumoniae,8.3,4.4,5.0,1.0,Azithromycin
+483,20,1,Moderate,14.9,176456,Salmonella typhi,Escherichia coli,8.4,4.8,8.0,0.0,Ceftriaxone
+5379,47,0,High,12.0,155402,Salmonella typhi,Escherichia coli,8.9,4.7,5.0,0.0,Amoxicillin
+855,49,1,High,10.1,125026,Unknown,-,8.9,4.5,10.0,0.0,Azithromycin
+5014,19,0,Low,13.9,229204,Staphylococcus,-,9.6,5.0,10.0,0.0,Ceftriaxone
+3457,43,0,Low,14.2,166308,Salmonella typhi,-,8.5,3.6,8.0,1.0,Azithromycin
+2868,25,1,Low,11.9,136347,Salmonella typhi,Klebsiella pneumoniae,9.3,10.92155042,14.0,1.0,Amoxicillin
+4126,24,0,High,13.8,233659,Salmonella typhi,Escherichia coli,9.6,4.3,8.0,1.0,Ceftriaxone
+1118,32,1,Low,10.5,256889,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,10.0,1.0,Amoxicillin
+2553,25,0,Low,10.7,135912,Escherichia coli,Escherichia coli,9.5,3.7,13.0,1.0,Amoxicillin
+644,58,1,Moderate,22.06780844,250807,Escherichia coli,-,8.9,7.257967583,14.0,0.0,Ceftriaxone
+1065,39,1,High,11.3,233052,Salmonella typhi,Escherichia coli,9.0,4.0,9.0,1.0,Amoxicillin
+4494,28,0,Moderate,24.37314886,181154,Staphylococcus,Klebsiella pneumoniae,9.7,4.5,6.0,0.0,Amoxicillin
+2756,31,0,Low,10.6,251934,Staphylococcus,Escherichia coli,9.8,4.1,8.0,0.0,Azithromycin
+2391,67,1,Low,10.6,276620,Escherichia coli,Klebsiella pneumoniae,10.0,3.7,12.0,1.0,Amoxicillin
+781,23,0,Unknown,14.0,266451,Salmonella typhi,Escherichia coli,8.4,3.8,12.0,1.0,Amoxicillin
+3325,63,1,Low,14.8,232135,Unknown,Klebsiella pneumoniae,9.8,3.8,5.0,1.0,Ceftriaxone
+1812,34,0,High,11.7,125929,Escherichia coli,Klebsiella pneumoniae,8.7,3.5,14.0,1.0,Ceftriaxone
+1323,24,1,Low,10.9,239060,Staphylococcus,Klebsiella pneumoniae,6.389322901,4.0,9.0,1.0,Ceftriaxone
+1261,32,1,Low,10.5,130848,Salmonella typhi,-,9.5,4.5,9.0,0.0,Ceftriaxone
+4365,52,1,High,14.1,225376,Escherichia coli,-,8.7,4.9,13.0,0.0,Amoxicillin
+4815,42,0,High,14.7,230812,Escherichia coli,Escherichia coli,9.8,4.5,5.0,1.0,Amoxicillin
+4641,30,0,High,11.9,292256,Staphylococcus,Klebsiella pneumoniae,9.0,3.8,8.0,0.0,Azithromycin
+3321,31,1,Unknown,11.6,275656,Salmonella typhi,Escherichia coli,8.3,5.0,11.0,1.0,Azithromycin
+3767,37,0,High,13.6,272076,Staphylococcus,Klebsiella pneumoniae,8.8,3.5,13.0,1.0,Azithromycin
+3331,35,1,Low,14.1,291619,Escherichia coli,Escherichia coli,9.8,4.4,10.0,1.0,Ceftriaxone
+5565,39,1,High,11.3,233052,Salmonella typhi,Escherichia coli,9.0,4.0,9.0,1.0,Amoxicillin
+4257,44,1,Low,11.0,269761,Escherichia coli,Klebsiella pneumoniae,8.3,4.0,5.0,1.0,Ceftriaxone
+1226,41,0,Unknown,22.88419733,197374,Unknown,-,8.3,4.2,15.0,1.0,Amoxicillin
+767,37,0,Unknown,13.6,272076,Staphylococcus,Klebsiella pneumoniae,8.8,3.5,13.0,1.0,Azithromycin
+5549,68,1,Low,12.8,124105,Salmonella typhi,Klebsiella pneumoniae,8.4,4.8,12.0,0.0,Azithromycin
+2039,55,1,Low,12.1,190759,Escherichia coli,Escherichia coli,8.8,3.9,10.0,0.0,Ceftriaxone
+5457,43,0,Low,14.2,166308,Unknown,-,8.5,3.6,8.0,1.0,Azithromycin
+4687,36,1,Low,11.1,224202,Salmonella typhi,-,8.8,3.9,15.0,1.0,Azithromycin
+4380,63,0,Unknown,11.5,174242,Unknown,-,9.3,3.8,7.0,1.0,Azithromycin
+3419,32,1,Unknown,12.0,166094,Unknown,Escherichia coli,9.5,4.1,10.0,0.0,Amoxicillin
+5354,43,1,High,11.8,204601,Escherichia coli,-,16.11452665,3.7,8.0,1.0,Amoxicillin
+3938,32,1,Low,14.2,160244,Unknown,Escherichia coli,8.9,3.7,14.0,0.0,Azithromycin
+2874,27,1,Low,14.5,202101,Escherichia coli,Klebsiella pneumoniae,9.6,4.1,6.0,0.0,Ceftriaxone
+4440,32,1,High,10.4,235876,Staphylococcus,Klebsiella pneumoniae,8.6,4.1,14.0,1.0,Azithromycin
+2209,29,1,Unknown,11.0,236887,Staphylococcus,-,8.6,4.7,7.0,1.0,Ceftriaxone
+2487,51,1,Low,11.5,299719,Salmonella typhi,-,9.2,4.8,11.0,0.0,Amoxicillin
+3220,37,0,Moderate,13.4,220988,Staphylococcus,Klebsiella pneumoniae,9.7,4.8,14.0,1.0,Amoxicillin
+4540,58,1,Moderate,11.4,125831,Staphylococcus,Klebsiella pneumoniae,8.5,4.4,12.0,1.0,Azithromycin
+3173,59,0,High,10.0,190527,Unknown,Escherichia coli,3.259176803,4.1,8.0,1.0,Amoxicillin
+1875,67,0,Moderate,11.7,247264,Salmonella typhi,Klebsiella pneumoniae,3.87249722,4.6,10.0,0.0,Ceftriaxone
+3354,43,1,Unknown,11.8,204601,Escherichia coli,-,8.0,3.7,8.0,1.0,Amoxicillin
+5177,70,1,Low,14.5,251881,Staphylococcus,Escherichia coli,8.6,4.3,10.0,1.0,Ceftriaxone
+1559,58,0,Low,12.8,226660,Escherichia coli,Klebsiella pneumoniae,9.1,3.6,7.0,1.0,Azithromycin
+1417,33,1,Low,13.8,264150,Salmonella typhi,Escherichia coli,8.9,4.2,8.0,0.0,Amoxicillin
+1651,42,0,Unknown,13.8,121427,Escherichia coli,Escherichia coli,24.96095962,4.2,13.0,0.0,Ceftriaxone
+3933,46,1,High,11.3,233748,Staphylococcus,Escherichia coli,9.6,4.3,15.0,0.0,Azithromycin
+4567,49,0,High,12.0,257617,Escherichia coli,Klebsiella pneumoniae,9.9,4.4,9.0,0.0,Azithromycin
+2747,54,1,High,12.4,197608,Escherichia coli,Klebsiella pneumoniae,8.4,4.0,11.0,0.0,Ceftriaxone
+1103,59,0,Low,13.8,176029,Salmonella typhi,-,9.9,4.1,10.0,1.0,Azithromycin
+761,32,1,Low,20.72760035,130848,Salmonella typhi,-,9.5,4.5,10.0,0.0,Ceftriaxone
+3889,64,1,Low,14.7,252565,Unknown,Escherichia coli,8.2,3.8,9.0,1.0,Azithromycin
+2822,65,1,Low,11.8,203679,Salmonella typhi,-,2.683259671,4.1,10.0,0.0,Ceftriaxone
+5473,56,0,High,14.8,198377,Salmonella typhi,Klebsiella pneumoniae,8.1,4.2,10.0,0.0,Amoxicillin
+5161,47,0,High,11.6,191334,Salmonella typhi,Escherichia coli,8.9,4.9,10.0,1.0,Ceftriaxone
+4117,53,1,High,14.6,128488,Escherichia coli,Klebsiella pneumoniae,9.8,4.7,9.0,0.0,Azithromycin
+4268,36,0,Low,13.1,195874,Staphylococcus,-,9.0,4.0,13.0,0.0,Ceftriaxone
+5159,32,1,High,14.6,285586,Salmonella typhi,Escherichia coli,9.6,4.7,7.0,0.0,Ceftriaxone
+5755,23,0,Moderate,11.1,195391,Escherichia coli,-,8.3,4.9,5.0,1.0,Ceftriaxone
+2620,20,1,Unknown,13.8,283791,Staphylococcus,-,9.3,4.1,13.0,0.0,Azithromycin
+2184,19,0,Low,12.7,219844,Escherichia coli,Klebsiella pneumoniae,10.0,4.7,5.0,1.0,Azithromycin
+4712,68,1,Unknown,13.4,165111,Escherichia coli,-,9.9,3.8,14.0,1.0,Ceftriaxone
+3891,67,1,Low,10.6,276620,Escherichia coli,Klebsiella pneumoniae,10.0,3.7,12.0,1.0,Amoxicillin
+2443,38,1,Moderate,10.2,122498,Staphylococcus,-,9.1,4.6,12.0,0.0,Ceftriaxone
+5215,54,0,Unknown,10.7,208888,Escherichia coli,-,9.7,4.0,10.0,1.0,Amoxicillin
+2501,38,0,Unknown,13.9,259366,Unknown,Klebsiella pneumoniae,8.7,4.9,15.0,0.0,Amoxicillin
+1182,49,0,High,13.8,204987,Staphylococcus,Klebsiella pneumoniae,8.3,4.4,5.0,1.0,Azithromycin
+3721,63,1,Moderate,11.2,270096,Escherichia coli,Escherichia coli,8.7,4.5,10.0,1.0,Ceftriaxone
+3429,47,1,Low,11.7,274681,Salmonella typhi,-,8.6,3.8,14.0,1.0,Azithromycin
+2706,69,1,High,14.3,234261,Staphylococcus,Klebsiella pneumoniae,9.7,4.1,7.0,0.0,Amoxicillin
+4234,23,0,Moderate,14.0,195962,Escherichia coli,Escherichia coli,8.5,4.8,10.0,1.0,Amoxicillin
+843,57,1,High,11.0,203016,Salmonella typhi,-,9.3,4.4,10.0,0.0,Amoxicillin
+4907,70,1,Moderate,11.0,290206,Escherichia coli,-,8.4,4.5,9.0,0.0,Amoxicillin
+948,23,0,High,10.8,297073,Salmonella typhi,Klebsiella pneumoniae,8.1,4.3,7.0,1.0,Amoxicillin
+2355,49,1,High,10.1,125026,Escherichia coli,-,8.9,4.5,10.0,0.0,Azithromycin
+3387,58,1,High,11.8,154557,Staphylococcus,-,8.4,4.6,5.0,0.0,Amoxicillin
+2568,35,0,Moderate,12.8,202773,Salmonella typhi,Klebsiella pneumoniae,8.7,3.8,7.0,0.0,Amoxicillin
+318,43,1,Unknown,12.3,227911,Escherichia coli,Escherichia coli,9.2,4.5,10.0,0.0,Azithromycin
+2572,28,0,High,14.0,251367,Staphylococcus,Klebsiella pneumoniae,8.8,3.8,9.0,1.0,Azithromycin
+1396,51,0,Moderate,12.1,163976,Salmonella typhi,-,9.2,3.8,12.0,1.0,Amoxicillin
+4808,60,1,High,11.4,258260,Unknown,Klebsiella pneumoniae,8.8,4.0,6.0,1.0,Ceftriaxone
+2847,18,0,High,10.7,231875,Staphylococcus,Escherichia coli,8.8,4.9,7.0,0.0,Amoxicillin
+176,32,1,High,10.5,289323,Staphylococcus,-,9.7,4.6,15.0,1.0,Azithromycin
+1019,48,1,High,12.1,233494,Salmonella typhi,-,8.4,4.9,10.0,0.0,Ceftriaxone
+724,22,1,Unknown,10.3,176742,Salmonella typhi,Klebsiella pneumoniae,8.8,4.8,15.0,1.0,Amoxicillin
+2820,53,0,Moderate,13.8,205110,Salmonella typhi,-,8.7,4.4,6.0,0.0,Ceftriaxone
+1478,33,1,Unknown,12.4,227708,Escherichia coli,-,2.172469174,4.8,13.0,0.0,Azithromycin
+4993,32,0,Moderate,13.6,177667,Salmonella typhi,Klebsiella pneumoniae,8.3,3.5,11.0,0.0,Azithromycin
+1912,46,1,Moderate,13.8,135292,Escherichia coli,-,9.0,12.55246003,10.0,0.0,Azithromycin
+5080,62,0,Low,21.58711653,179031,Staphylococcus,-,8.1,4.3,8.0,1.0,Ceftriaxone
+4049,68,1,Low,12.8,124105,Salmonella typhi,Klebsiella pneumoniae,8.4,4.8,12.0,0.0,Azithromycin
+3620,20,1,Low,13.8,283791,Staphylococcus,-,9.3,4.1,13.0,0.0,Azithromycin
+5605,53,1,High,14.5,138711,Staphylococcus,-,9.4,4.7,8.0,1.0,Azithromycin
+3661,47,0,High,21.31377687,191334,Salmonella typhi,Escherichia coli,8.9,4.9,11.0,1.0,Ceftriaxone
+3298,34,0,Moderate,11.0,149275,Escherichia coli,-,8.6,3.5,13.0,1.0,Azithromycin
+3261,32,1,Low,10.5,130848,Unknown,-,9.5,13.76558882,9.0,0.0,Ceftriaxone
+1807,33,1,Moderate,12.3,230146,Salmonella typhi,Escherichia coli,9.4,4.9,15.0,1.0,Ceftriaxone
+1697,22,1,Moderate,12.2,170104,Staphylococcus,Escherichia coli,8.7,4.1,10.0,1.0,Amoxicillin
+1440,32,1,High,10.4,235876,Staphylococcus,Klebsiella pneumoniae,8.6,4.1,14.0,1.0,Azithromycin
+118,32,1,Low,10.5,256889,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,6.0,1.0,Amoxicillin
+4302,32,1,Unknown,12.3,203540,Unknown,Escherichia coli,8.4,4.8,12.0,0.0,Azithromycin
+3576,37,1,Low,11.7,153602,Staphylococcus,Escherichia coli,8.3,4.6,11.0,0.0,Ceftriaxone
+3119,29,1,Low,12.3,169752,Unknown,-,9.7,3.5,5.0,0.0,Amoxicillin
+3603,59,0,Low,13.8,176029,Salmonella typhi,-,9.9,4.1,8.0,1.0,Azithromycin
+1420,24,1,Moderate,13.6,145376,Escherichia coli,-,8.3,4.5,9.0,1.0,Amoxicillin
+1001,38,0,Low,13.9,259366,Escherichia coli,Klebsiella pneumoniae,8.7,4.9,15.0,0.0,Amoxicillin
+968,54,0,High,14.7,221510,Escherichia coli,Escherichia coli,8.5,4.9,9.0,1.0,Azithromycin
+89,47,0,Unknown,10.5,256449,Salmonella typhi,-,9.9,7.383821083,7.0,0.0,Azithromycin
+3512,64,1,Moderate,13.8,168887,Staphylococcus,Escherichia coli,8.7,4.9,10.0,1.0,Azithromycin
+5234,23,0,Moderate,14.0,195962,Escherichia coli,Escherichia coli,8.5,4.8,6.0,1.0,Amoxicillin
+5523,48,1,High,13.2,130876,Salmonella typhi,-,8.3,4.4,15.0,1.0,Ceftriaxone
+5479,29,0,High,14.1,286194,Escherichia coli,Klebsiella pneumoniae,9.2,3.7,7.0,1.0,Ceftriaxone
+4605,53,1,Unknown,14.5,138711,Staphylococcus,-,9.4,4.7,8.0,1.0,Azithromycin
+3109,29,0,Moderate,10.2,281529,Staphylococcus,Escherichia coli,9.4,3.7,15.0,1.0,Amoxicillin
+2113,26,0,Low,22.3889588,286100,Salmonella typhi,Klebsiella pneumoniae,9.2,4.5,9.0,0.0,Amoxicillin
+4701,48,1,Moderate,21.91744989,282723,Unknown,Escherichia coli,9.6,3.8,13.0,1.0,Azithromycin
+4335,35,1,Unknown,13.4,293494,Escherichia coli,Klebsiella pneumoniae,17.66668893,3.9,6.0,1.0,Azithromycin
+1565,39,1,High,11.3,233052,Salmonella typhi,Escherichia coli,9.0,4.0,9.0,1.0,Amoxicillin
+2329,67,0,High,10.4,273449,Salmonella typhi,-,8.9,3.5,7.0,0.0,Amoxicillin
+1945,49,0,Moderate,12.6,227175,Escherichia coli,Escherichia coli,8.1,4.0,9.0,0.0,Ceftriaxone
+4009,28,0,Moderate,14.7,250223,Unknown,-,9.6,4.1,5.0,1.0,Ceftriaxone
+642,22,1,High,12.0,130911,Staphylococcus,Klebsiella pneumoniae,8.8,4.8,8.0,1.0,Amoxicillin
+2007,55,1,Low,14.9,178364,Escherichia coli,-,9.1,7.791936673,10.0,1.0,Ceftriaxone
+2733,28,1,Unknown,13.7,247281,Staphylococcus,-,8.8,4.1,13.0,1.0,Azithromycin
+2718,47,0,High,10.0,244392,Staphylococcus,Escherichia coli,8.4,5.0,10.0,0.0,Ceftriaxone
+4541,68,1,Low,13.4,240767,Escherichia coli,Klebsiella pneumoniae,9.0,4.4,6.0,1.0,Ceftriaxone
+945,49,0,Moderate,12.6,227175,Escherichia coli,Escherichia coli,8.1,4.0,9.0,0.0,Ceftriaxone
+2567,49,0,High,12.0,257617,Escherichia coli,Klebsiella pneumoniae,9.9,4.4,9.0,0.0,Azithromycin
+1099,63,1,Low,13.1,255927,Salmonella typhi,Escherichia coli,9.5,4.5,15.0,1.0,Amoxicillin
+1166,23,0,Low,24.88568407,129476,Staphylococcus,Escherichia coli,9.0,5.0,13.0,1.0,Azithromycin
+579,62,1,Low,10.5,192953,Salmonella typhi,Escherichia coli,8.1,4.2,12.0,1.0,Amoxicillin
+1575,38,0,Low,12.8,126804,Staphylococcus,Klebsiella pneumoniae,9.4,3.9,6.0,0.0,Ceftriaxone
+1743,22,1,High,14.9,269700,Salmonella typhi,-,8.5,4.1,10.0,1.0,Azithromycin
+5276,40,1,High,12.8,221970,Staphylococcus,Klebsiella pneumoniae,9.4,4.6,10.0,1.0,Azithromycin
+1535,52,1,Moderate,14.0,137039,Escherichia coli,Escherichia coli,8.6,3.9,13.0,0.0,Azithromycin
+4682,49,0,High,13.8,204987,Staphylococcus,Klebsiella pneumoniae,8.3,4.4,5.0,1.0,Azithromycin
+2050,60,0,Moderate,13.9,165846,Salmonella typhi,Escherichia coli,9.4,5.0,10.0,1.0,Azithromycin
+5096,21,1,Low,10.5,194804,Salmonella typhi,Escherichia coli,8.7,4.3,9.0,1.0,Amoxicillin
+1501,38,0,Low,13.9,259366,Escherichia coli,Klebsiella pneumoniae,8.7,4.9,15.0,0.0,Amoxicillin
+4746,58,0,Unknown,14.5,193798,Staphylococcus,Klebsiella pneumoniae,5.624433047,3.7,10.0,0.0,Azithromycin
+4319,20,1,Low,11.8,245572,Escherichia coli,-,9.4,4.9,12.0,1.0,Amoxicillin
+1918,61,1,High,14.0,251573,Salmonella typhi,Escherichia coli,9.5,3.7,13.0,0.0,Ceftriaxone
+230,62,1,Low,12.6,157204,Staphylococcus,Klebsiella pneumoniae,9.0,4.1,10.0,0.0,Azithromycin
+5127,25,1,Unknown,10.3,150715,Salmonella typhi,-,8.1,4.6,11.0,1.0,Amoxicillin
+4262,24,1,Unknown,11.1,290878,Staphylococcus,Escherichia coli,8.8,4.7,8.0,0.0,Amoxicillin
+2990,33,0,High,11.0,183052,Escherichia coli,Escherichia coli,8.6,4.8,5.0,0.0,Azithromycin
+4616,59,0,Unknown,13.9,275815,Escherichia coli,Escherichia coli,9.6,4.1,9.0,1.0,Ceftriaxone
+1340,36,1,Low,13.6,237925,Escherichia coli,Escherichia coli,21.94221015,4.7,5.0,1.0,Azithromycin
+372,50,0,Moderate,14.3,198282,Staphylococcus,Escherichia coli,8.3,4.2,15.0,0.0,Ceftriaxone
+2926,50,0,Unknown,10.9,226451,Escherichia coli,Klebsiella pneumoniae,8.7,4.6,14.0,0.0,Azithromycin
+5380,63,0,Low,11.5,174242,Staphylococcus,-,9.3,3.8,7.0,1.0,Azithromycin
+1061,70,0,High,14.2,141495,Unknown,Escherichia coli,9.1,4.4,9.0,1.0,Amoxicillin
+5696,41,1,High,10.5,153282,Salmonella typhi,Escherichia coli,9.8,8.141086151,9.0,1.0,Amoxicillin
+1596,21,1,Low,10.5,194804,Salmonella typhi,Escherichia coli,8.7,11.03344798,9.0,1.0,Amoxicillin
+1000,68,0,High,13.9,262155,Unknown,Escherichia coli,9.0,4.2,8.0,1.0,Azithromycin
+2856,29,0,Moderate,12.6,277098,Staphylococcus,Escherichia coli,8.5,4.8,6.0,0.0,Azithromycin
+3533,41,0,High,14.6,231163,Salmonella typhi,Klebsiella pneumoniae,8.4,4.0,11.0,1.0,Ceftriaxone
+989,50,1,Moderate,12.0,262919,Unknown,-,9.0,3.9,10.0,1.0,Azithromycin
+1694,36,0,High,22.37069164,126949,Salmonella typhi,Escherichia coli,9.8,4.9,10.0,0.0,Azithromycin
+2918,61,1,High,14.0,251573,Salmonella typhi,Escherichia coli,9.5,3.7,13.0,0.0,Ceftriaxone
+1328,19,0,Unknown,13.5,222111,Staphylococcus,-,8.7,4.9,10.0,1.0,Ceftriaxone
+5270,25,0,Low,10.2,232223,Escherichia coli,Escherichia coli,9.2,5.0,13.0,1.0,Ceftriaxone
+5463,31,0,Unknown,14.9,202641,Escherichia coli,Escherichia coli,9.6,3.7,8.0,0.0,Ceftriaxone
+2982,30,0,Low,12.2,150640,Staphylococcus,-,8.9,3.8,12.0,1.0,Azithromycin
+3226,41,0,Unknown,14.0,197374,Escherichia coli,-,8.3,4.2,15.0,1.0,Amoxicillin
+1044,46,0,Moderate,11.8,178595,Staphylococcus,Escherichia coli,8.3,3.6,8.0,1.0,Azithromycin
+3934,58,0,High,11.0,139726,Staphylococcus,Klebsiella pneumoniae,8.2,4.5,10.0,0.0,Ceftriaxone
+2327,26,1,Low,24.54986754,232881,Salmonella typhi,Escherichia coli,8.2,4.7,9.0,1.0,Amoxicillin
+5568,35,0,Moderate,12.8,202773,Salmonella typhi,Klebsiella pneumoniae,8.7,3.8,7.0,0.0,Amoxicillin
+5228,27,0,Low,12.3,184811,Staphylococcus,Klebsiella pneumoniae,9.8,4.5,13.0,0.0,Amoxicillin
+2045,44,0,Moderate,14.6,211337,Escherichia coli,Escherichia coli,8.4,3.7,10.0,0.0,Amoxicillin
+3100,35,1,Moderate,14.4,299799,Staphylococcus,Escherichia coli,9.7,4.8,10.0,1.0,Amoxicillin
+4066,49,1,High,11.8,157731,Unknown,Escherichia coli,9.2,4.9,9.0,0.0,Ceftriaxone
+287,32,1,Low,13.7,159786,Unknown,Klebsiella pneumoniae,8.5,4.4,8.0,1.0,Amoxicillin
+2632,32,0,High,12.8,217500,Salmonella typhi,Escherichia coli,8.8,4.8,15.0,0.0,Ceftriaxone
+5627,25,1,High,10.3,150715,Salmonella typhi,-,8.1,4.6,11.0,1.0,Amoxicillin
+2514,19,0,Low,13.9,229204,Staphylococcus,-,9.6,5.0,12.0,0.0,Ceftriaxone
+1669,34,1,Moderate,12.8,275995,Salmonella typhi,-,8.8,4.6,14.0,1.0,Azithromycin
+3742,38,0,High,14.5,161744,Staphylococcus,Klebsiella pneumoniae,9.9,10.64606993,15.0,1.0,Azithromycin
+4614,47,0,High,11.1,228631,Escherichia coli,Klebsiella pneumoniae,9.3,3.9,6.0,0.0,Amoxicillin
+1183,66,1,Low,14.4,217134,Salmonella typhi,Escherichia coli,9.0,3.6,9.0,1.0,Azithromycin
+2358,55,0,High,13.9,121759,Salmonella typhi,Klebsiella pneumoniae,8.0,4.2,9.0,0.0,Azithromycin
+3310,39,1,Moderate,13.8,153174,Escherichia coli,-,9.4,4.5,12.0,0.0,Amoxicillin
+342,27,0,Moderate,13.3,189420,Unknown,-,8.3,4.5,7.0,0.0,Amoxicillin
+3222,49,1,Moderate,14.6,139074,Unknown,Escherichia coli,8.9,4.5,10.0,1.0,Amoxicillin
+5472,68,1,High,12.2,198767,Salmonella typhi,Klebsiella pneumoniae,8.1,4.1,14.0,0.0,Ceftriaxone
+4803,24,1,Low,13.6,209748,Salmonella typhi,Escherichia coli,9.5,4.7,11.0,1.0,Ceftriaxone
+1490,33,0,High,11.0,183052,Escherichia coli,Escherichia coli,8.6,4.8,5.0,0.0,Azithromycin
+2997,27,0,Low,14.2,259369,Staphylococcus,Klebsiella pneumoniae,9.2,4.4,10.0,1.0,Azithromycin
+4306,27,0,Moderate,13.6,124060,Staphylococcus,-,9.7,5.0,5.0,1.0,Amoxicillin
+4348,55,1,High,11.2,131516,Staphylococcus,Escherichia coli,8.8,4.2,13.0,0.0,Amoxicillin
+3980,53,1,High,13.8,276211,Salmonella typhi,-,9.2,4.6,9.0,1.0,Amoxicillin
+3844,37,0,Low,12.5,225673,Unknown,Klebsiella pneumoniae,10.0,4.8,14.0,0.0,Azithromycin
+3852,41,1,High,13.9,152225,Salmonella typhi,Klebsiella pneumoniae,9.1,4.0,10.0,0.0,Ceftriaxone
+1391,67,1,Low,10.6,276620,Unknown,Klebsiella pneumoniae,10.0,3.7,12.0,1.0,Amoxicillin
+1294,22,1,Low,14.4,233424,Escherichia coli,-,7.042945828,3.7,14.0,1.0,Ceftriaxone
+5712,68,1,High,13.4,165111,Escherichia coli,-,9.9,3.8,14.0,1.0,Ceftriaxone
+1576,37,1,Low,11.7,153602,Staphylococcus,Escherichia coli,8.3,4.6,11.0,0.0,Ceftriaxone
+416,19,0,Unknown,12.1,128224,Staphylococcus,Escherichia coli,9.0,4.9,10.0,1.0,Amoxicillin
+1461,18,1,Low,11.4,258530,Staphylococcus,Escherichia coli,8.9,11.47128828,7.0,1.0,Azithromycin
+481,53,0,High,13.7,238248,Salmonella typhi,Klebsiella pneumoniae,8.5,4.1,7.0,0.0,Ceftriaxone
+721,63,1,Moderate,11.2,270096,Escherichia coli,Escherichia coli,8.7,4.5,12.0,1.0,Ceftriaxone
+3733,28,1,Moderate,13.7,247281,Unknown,-,8.8,4.1,13.0,1.0,Azithromycin
+2814,51,1,Moderate,14.7,220513,Staphylococcus,Escherichia coli,8.2,3.9,11.0,1.0,Amoxicillin
+590,45,1,Moderate,10.1,221098,Salmonella typhi,-,9.9,3.8,7.0,1.0,Amoxicillin
+4089,47,0,Moderate,10.5,256449,Unknown,-,9.9,4.2,7.0,0.0,Azithromycin
+2980,53,1,High,13.8,276211,Salmonella typhi,-,9.2,4.6,9.0,1.0,Amoxicillin
+58,31,0,Low,13.3,169281,Escherichia coli,Escherichia coli,9.9,4.0,10.0,0.0,Ceftriaxone
+2424,21,1,Low,13.7,234102,Escherichia coli,Escherichia coli,11.60766963,3.7,5.0,0.0,Amoxicillin
+1515,23,0,High,12.8,175829,Escherichia coli,Escherichia coli,8.5,5.0,13.0,1.0,Ceftriaxone
+4487,51,1,Low,11.5,299719,Salmonella typhi,-,9.2,7.007417362,11.0,0.0,Amoxicillin
+4413,68,0,Low,13.0,168405,Escherichia coli,Escherichia coli,8.9,4.4,10.0,1.0,Azithromycin
+4539,55,1,Low,12.1,190759,Escherichia coli,Escherichia coli,8.8,3.9,10.0,0.0,Ceftriaxone
+4548,54,0,High,13.1,149319,Staphylococcus,Klebsiella pneumoniae,8.5,4.7,5.0,0.0,Azithromycin
+4509,28,0,Moderate,14.7,250223,Staphylococcus,-,9.6,4.1,5.0,1.0,Ceftriaxone
+2054,64,1,Low,11.8,218056,Escherichia coli,-,8.6,4.3,14.0,1.0,Azithromycin
+3445,49,0,Unknown,12.6,227175,Escherichia coli,Escherichia coli,8.1,4.0,9.0,0.0,Ceftriaxone
+4930,18,0,Moderate,13.5,223949,Staphylococcus,-,9.4,4.4,12.0,0.0,Azithromycin
+1755,23,0,Unknown,11.1,195391,Escherichia coli,-,9.160352983,4.9,5.0,1.0,Ceftriaxone
+3924,21,1,Low,13.7,234102,Escherichia coli,Escherichia coli,8.9,3.7,10.0,0.0,Amoxicillin
+1491,35,0,Low,12.1,290764,Staphylococcus,Klebsiella pneumoniae,9.7,3.6,13.0,1.0,Azithromycin
+3885,63,1,Low,23.15860913,229818,Salmonella typhi,Klebsiella pneumoniae,8.2,4.2,8.0,1.0,Ceftriaxone
+1285,61,0,High,13.3,228861,Escherichia coli,-,8.3,3.9,11.0,1.0,Ceftriaxone
+2666,23,0,Unknown,14.0,129476,Staphylococcus,Escherichia coli,9.0,5.0,13.0,1.0,Azithromycin
+88,42,1,Unknown,14.0,285053,Staphylococcus,Escherichia coli,9.1,4.3,6.0,0.0,Amoxicillin
+1169,34,1,Moderate,12.8,275995,Salmonella typhi,-,8.8,4.6,14.0,1.0,Azithromycin
+1259,29,1,High,12.7,184020,Salmonella typhi,Klebsiella pneumoniae,8.3,3.6,8.0,1.0,Amoxicillin
+3198,24,1,Moderate,13.5,172544,Staphylococcus,-,9.9,4.1,13.0,0.0,Amoxicillin
+707,60,0,Moderate,10.6,256250,Staphylococcus,Escherichia coli,8.1,4.9,8.0,0.0,Azithromycin
+4851,42,1,Moderate,12.9,256066,Salmonella typhi,-,9.2,4.1,8.0,0.0,Ceftriaxone
+4101,38,0,Low,13.9,293212,Unknown,Klebsiella pneumoniae,9.2,3.8,12.0,1.0,Azithromycin
+1436,67,1,Low,13.9,242921,Salmonella typhi,Escherichia coli,9.4,3.8,5.0,0.0,Amoxicillin
+4068,35,0,Moderate,12.8,202773,Salmonella typhi,Klebsiella pneumoniae,8.7,3.8,7.0,0.0,Amoxicillin
+160,20,1,Moderate,12.8,251961,Staphylococcus,Escherichia coli,8.6,4.5,11.0,1.0,Azithromycin
+4127,25,1,High,10.3,150715,Salmonella typhi,-,8.1,4.6,11.0,1.0,Amoxicillin
+4533,41,0,High,14.6,231163,Unknown,Klebsiella pneumoniae,8.4,4.0,11.0,1.0,Ceftriaxone
+3569,37,1,High,14.7,247630,Staphylococcus,-,8.7,4.0,10.0,0.0,Amoxicillin
+1786,49,1,Low,12.8,274106,Salmonella typhi,Klebsiella pneumoniae,9.4,12.07540601,10.0,0.0,Azithromycin
+529,63,0,High,11.3,138504,Escherichia coli,-,13.60321341,3.7,15.0,1.0,Azithromycin
+2104,28,0,Low,10.9,232128,Salmonella typhi,Escherichia coli,8.3,4.5,12.0,0.0,Amoxicillin
+591,42,1,Low,11.3,175743,Staphylococcus,-,8.9,4.5,9.0,0.0,Amoxicillin
+3245,69,0,High,12.6,289018,Escherichia coli,Escherichia coli,5.904685247,3.6,10.0,1.0,Amoxicillin
+684,19,0,Low,12.7,219844,Escherichia coli,Klebsiella pneumoniae,10.0,4.7,5.0,1.0,Azithromycin
+2559,58,0,Low,12.8,226660,Escherichia coli,Klebsiella pneumoniae,9.1,3.6,7.0,1.0,Azithromycin
+3428,49,1,High,14.7,285788,Salmonella typhi,-,8.2,4.1,15.0,1.0,Azithromycin
+78,53,1,Low,12.1,158382,Salmonella typhi,-,8.5,3.7,10.0,1.0,Azithromycin
+2364,55,1,High,12.3,260544,Salmonella typhi,Klebsiella pneumoniae,9.0,3.5,6.0,0.0,Ceftriaxone
+1070,34,1,Low,11.0,299040,Staphylococcus,-,9.9,4.0,10.0,1.0,Ceftriaxone
+3634,34,0,High,24.75315978,207345,Escherichia coli,-,8.7,10.46874116,12.0,0.0,Azithromycin
+4058,31,0,Low,13.3,169281,Escherichia coli,Escherichia coli,9.9,4.0,10.0,0.0,Ceftriaxone
+2882,45,1,Moderate,10.3,262761,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,9.0,0.0,Amoxicillin
+4195,21,1,High,14.5,182597,Escherichia coli,Klebsiella pneumoniae,8.4,4.5,7.0,0.0,Azithromycin
+3341,27,1,Moderate,10.8,283337,Escherichia coli,Klebsiella pneumoniae,8.8,11.04288297,11.0,1.0,Amoxicillin
+4934,58,0,High,11.0,139726,Staphylococcus,Klebsiella pneumoniae,8.2,4.5,6.0,0.0,Ceftriaxone
+4003,33,1,High,10.7,251028,Escherichia coli,-,10.0,3.8,15.0,0.0,Azithromycin
+5563,66,0,Moderate,12.6,157676,Staphylococcus,Klebsiella pneumoniae,9.2,4.2,13.0,1.0,Ceftriaxone
+3010,24,1,Moderate,13.2,162206,Escherichia coli,Klebsiella pneumoniae,9.3,4.2,6.0,1.0,Ceftriaxone
+3985,45,0,Low,13.5,223823,Staphylococcus,Klebsiella pneumoniae,9.1,4.7,11.0,1.0,Azithromycin
+834,57,0,Unknown,11.7,196658,Staphylococcus,-,8.4,4.5,8.0,1.0,Ceftriaxone
+2782,27,1,Low,12.3,240582,Salmonella typhi,Klebsiella pneumoniae,9.2,4.1,8.0,0.0,Azithromycin
+1346,23,0,High,12.4,177973,Staphylococcus,Escherichia coli,8.5,3.9,15.0,1.0,Amoxicillin
+4941,40,0,Unknown,13.8,171420,Staphylococcus,-,5.447204647,4.3,10.0,1.0,Ceftriaxone
+2973,56,0,High,20.73245507,198377,Salmonella typhi,Klebsiella pneumoniae,8.1,4.2,10.0,0.0,Amoxicillin
+4275,31,0,Unknown,10.5,122572,Staphylococcus,-,0.167900094,3.8,7.0,1.0,Ceftriaxone
+324,67,1,High,13.6,188685,Escherichia coli,Escherichia coli,8.3,4.7,11.0,0.0,Ceftriaxone
+5266,41,0,Moderate,14.2,175143,Unknown,-,8.2,4.1,7.0,1.0,Azithromycin
+1671,53,1,High,14.6,212127,Salmonella typhi,Escherichia coli,8.151092237,4.0,13.0,0.0,Amoxicillin
+137,68,0,Unknown,13.9,173171,Escherichia coli,Escherichia coli,8.7,4.1,10.0,1.0,Ceftriaxone
+387,58,1,High,11.8,154557,Staphylococcus,-,8.4,4.6,5.0,0.0,Amoxicillin
+1105,53,1,High,23.92540033,138711,Staphylococcus,-,9.4,4.7,8.0,1.0,Azithromycin
+4665,46,0,Low,14.5,212879,Staphylococcus,-,8.8,4.9,6.0,0.0,Amoxicillin
+5121,67,0,High,10.2,266270,Escherichia coli,Klebsiella pneumoniae,8.4,4.9,7.0,1.0,Azithromycin
+1209,29,1,Unknown,11.0,236887,Staphylococcus,-,8.6,4.7,10.0,1.0,Ceftriaxone
+3702,50,0,High,11.5,178069,Salmonella typhi,Escherichia coli,8.4,4.7,10.0,1.0,Azithromycin
+3937,55,0,Low,11.6,241507,Escherichia coli,Klebsiella pneumoniae,8.9,4.6,12.0,0.0,Azithromycin
+149,45,0,Moderate,10.9,148417,Unknown,-,10.0,4.1,9.0,0.0,Amoxicillin
+314,51,1,Moderate,14.7,220513,Staphylococcus,Escherichia coli,8.2,3.9,11.0,1.0,Amoxicillin
+2520,60,0,Low,11.8,145210,Escherichia coli,Klebsiella pneumoniae,8.0,4.2,10.0,0.0,Azithromycin
+3280,25,0,Low,13.1,261383,Escherichia coli,-,10.0,4.5,11.0,0.0,Amoxicillin
+5220,37,0,Moderate,13.4,220988,Staphylococcus,Klebsiella pneumoniae,9.7,4.8,14.0,1.0,Amoxicillin
+3478,33,1,High,12.4,227708,Unknown,-,9.7,4.8,10.0,0.0,Azithromycin
+4407,70,1,Moderate,11.0,290206,Escherichia coli,-,8.4,4.5,10.0,0.0,Amoxicillin
+5065,39,1,High,11.3,233052,Salmonella typhi,Escherichia coli,9.0,4.0,10.0,1.0,Amoxicillin
+5615,50,1,Moderate,10.3,227431,Staphylococcus,-,5.331067898,4.1,13.0,0.0,Amoxicillin
+1814,51,1,Moderate,14.7,220513,Staphylococcus,Escherichia coli,8.2,3.9,10.0,1.0,Amoxicillin
+4738,69,0,Moderate,11.7,200188,Unknown,-,9.5,4.5,10.0,1.0,Azithromycin
+4648,68,0,High,10.8,275083,Salmonella typhi,Escherichia coli,9.6,4.7,14.0,1.0,Ceftriaxone
+3095,32,0,High,20.69529496,125605,Escherichia coli,-,8.3,4.2,10.0,1.0,Amoxicillin
+3349,58,0,Moderate,13.3,266849,Staphylococcus,Klebsiella pneumoniae,8.4,4.7,9.0,1.0,Amoxicillin
+4651,42,0,Low,13.8,121427,Escherichia coli,Escherichia coli,9.8,4.2,13.0,0.0,Ceftriaxone
+5542,58,1,Unknown,12.0,179443,Unknown,Escherichia coli,9.5,4.1,9.0,1.0,Ceftriaxone
+5571,43,0,Unknown,10.7,197970,Escherichia coli,Escherichia coli,8.6,4.7,10.0,1.0,Amoxicillin
+2066,49,1,High,11.8,157731,Staphylococcus,Escherichia coli,9.2,4.9,9.0,0.0,Ceftriaxone
+1760,41,0,Low,14.5,267185,Staphylococcus,Klebsiella pneumoniae,8.8,3.9,10.0,1.0,Ceftriaxone
+1772,28,0,Low,11.3,139608,Escherichia coli,-,8.7,3.9,12.0,0.0,Ceftriaxone
+4180,18,1,High,12.4,207917,Salmonella typhi,Escherichia coli,9.3,4.0,13.0,1.0,Azithromycin
+5046,32,1,High,11.5,204730,Salmonella typhi,Klebsiella pneumoniae,9.7,3.9,13.0,1.0,Amoxicillin
+5537,34,0,Moderate,10.4,227434,Staphylococcus,Klebsiella pneumoniae,8.9,4.2,10.0,1.0,Azithromycin
+5517,50,0,Moderate,14.4,282514,Salmonella typhi,Escherichia coli,9.7,3.6,9.0,1.0,Amoxicillin
+896,51,0,Moderate,12.1,163976,Salmonella typhi,-,9.2,3.8,12.0,1.0,Amoxicillin
+4145,23,1,High,10.6,131751,Staphylococcus,Escherichia coli,9.2,4.0,11.0,1.0,Azithromycin
+5455,23,0,High,20.07825506,152380,Escherichia coli,-,9.9,4.6,15.0,0.0,Ceftriaxone
+1455,23,0,High,13.2,152380,Unknown,-,9.9,4.6,15.0,0.0,Ceftriaxone
+997,27,0,Low,14.2,259369,Staphylococcus,Klebsiella pneumoniae,9.2,4.4,10.0,1.0,Azithromycin
+911,51,0,Low,10.8,258485,Salmonella typhi,Escherichia coli,8.0,4.6,11.0,0.0,Ceftriaxone
+4975,52,1,Unknown,12.6,179472,Staphylococcus,Klebsiella pneumoniae,9.0,4.7,12.0,0.0,Azithromycin
+3448,23,0,High,10.8,297073,Salmonella typhi,Klebsiella pneumoniae,8.1,4.3,7.0,1.0,Amoxicillin
+1976,53,1,Low,21.26062661,125629,Unknown,Escherichia coli,8.6,4.9,6.0,0.0,Amoxicillin
+4142,22,1,High,12.0,130911,Staphylococcus,Klebsiella pneumoniae,8.8,4.8,8.0,1.0,Amoxicillin
+1073,60,0,Low,10.6,173041,Unknown,-,9.8,4.2,6.0,0.0,Azithromycin
+5493,32,0,Moderate,13.6,177667,Salmonella typhi,Klebsiella pneumoniae,8.3,3.5,11.0,0.0,Azithromycin
+3213,51,0,Low,13.7,175624,Unknown,Escherichia coli,8.1,3.6,9.0,1.0,Ceftriaxone
+1846,23,0,Unknown,12.4,177973,Staphylococcus,Escherichia coli,8.5,3.9,15.0,1.0,Amoxicillin
+3372,50,0,Moderate,14.3,198282,Staphylococcus,Escherichia coli,8.3,4.2,15.0,0.0,Ceftriaxone
+2290,31,1,Moderate,11.8,149338,Salmonella typhi,-,9.4,3.8,10.0,1.0,Azithromycin
+5147,52,0,Low,14.0,142783,Escherichia coli,Klebsiella pneumoniae,9.7,4.0,8.0,0.0,Ceftriaxone
+2276,40,1,High,12.8,221970,Staphylococcus,Klebsiella pneumoniae,9.4,4.6,13.0,1.0,Azithromycin
+1083,53,1,Low,14.1,282754,Staphylococcus,-,8.0,5.0,10.0,1.0,Ceftriaxone
+87,67,1,Moderate,13.2,143442,Staphylococcus,Escherichia coli,9.6,4.7,6.0,0.0,Azithromycin
+2219,31,1,Low,12.9,167056,Salmonella typhi,-,8.9,4.3,10.0,0.0,Amoxicillin
+1703,32,0,Low,11.1,171322,Unknown,-,9.7,4.5,7.0,1.0,Ceftriaxone
+5544,46,0,Moderate,11.8,178595,Staphylococcus,Escherichia coli,8.3,3.6,8.0,1.0,Azithromycin
+269,25,0,Unknown,21.57132752,293506,Staphylococcus,Klebsiella pneumoniae,8.9,4.1,5.0,1.0,Ceftriaxone
+2765,22,0,Moderate,10.1,172574,Staphylococcus,Klebsiella pneumoniae,8.4,4.6,9.0,0.0,Amoxicillin
+340,36,1,Low,13.6,237925,Escherichia coli,Escherichia coli,9.6,4.7,5.0,1.0,Azithromycin
+851,42,1,Moderate,12.9,256066,Salmonella typhi,-,9.2,4.1,8.0,0.0,Ceftriaxone
+2548,54,0,High,13.1,149319,Staphylococcus,Klebsiella pneumoniae,8.5,4.7,5.0,0.0,Azithromycin
+861,47,0,Moderate,12.7,277660,Salmonella typhi,-,9.3,3.8,10.0,1.0,Amoxicillin
+1269,25,0,High,12.2,293506,Staphylococcus,Klebsiella pneumoniae,8.9,4.1,5.0,1.0,Ceftriaxone
+3828,19,0,Low,13.5,222111,Staphylococcus,-,8.7,4.9,8.0,1.0,Ceftriaxone
+4243,22,1,High,14.9,269700,Salmonella typhi,-,8.5,4.1,7.0,1.0,Azithromycin
+2059,58,0,Low,12.8,226660,Escherichia coli,Klebsiella pneumoniae,9.1,3.6,7.0,1.0,Azithromycin
+3858,55,0,Unknown,13.9,121759,Salmonella typhi,Klebsiella pneumoniae,8.0,4.2,9.0,0.0,Azithromycin
+4952,23,1,Unknown,14.6,192384,Unknown,Escherichia coli,9.2,4.5,5.0,0.0,Azithromycin
+5704,38,1,High,11.6,238774,Salmonella typhi,Klebsiella pneumoniae,9.4,9.57709558,10.0,0.0,Amoxicillin
+3925,36,1,High,12.0,186476,Salmonella typhi,-,8.6,4.0,10.0,0.0,Azithromycin
+2523,48,1,High,13.2,130876,Salmonella typhi,-,8.3,4.4,15.0,1.0,Ceftriaxone
+2962,18,1,Moderate,13.9,136774,Escherichia coli,-,9.8,10.6162752,8.0,1.0,Amoxicillin
+4016,23,0,High,21.2493493,268949,Staphylococcus,Escherichia coli,9.3,4.8,15.0,0.0,Ceftriaxone
+3465,39,0,High,14.7,245738,Escherichia coli,Klebsiella pneumoniae,9.9,4.0,14.0,0.0,Azithromycin
+417,33,1,Low,13.8,264150,Unknown,Escherichia coli,8.9,4.2,8.0,0.0,Amoxicillin
+3826,24,0,Moderate,11.9,255792,Salmonella typhi,Escherichia coli,8.9,4.1,12.0,1.0,Amoxicillin
+586,59,1,Moderate,13.5,247444,Escherichia coli,Klebsiella pneumoniae,9.4,3.5,10.0,0.0,Amoxicillin
+4500,68,0,High,13.9,262155,Unknown,Escherichia coli,9.0,7.889172019,8.0,1.0,Azithromycin
+2619,29,1,Low,12.3,169752,Staphylococcus,-,9.7,3.5,5.0,0.0,Amoxicillin
+2925,36,1,High,12.0,186476,Salmonella typhi,-,8.6,4.0,10.0,0.0,Azithromycin
+3564,22,1,High,11.3,298257,Salmonella typhi,Escherichia coli,9.9,4.0,9.0,0.0,Amoxicillin
+2232,40,1,Low,11.9,191388,Escherichia coli,-,8.9,4.4,10.0,1.0,Amoxicillin
+5484,58,1,Low,10.2,191834,Unknown,Klebsiella pneumoniae,9.2,4.2,14.0,0.0,Ceftriaxone
+1350,27,0,Low,13.1,172393,Salmonella typhi,Klebsiella pneumoniae,8.9,12.76754152,12.0,0.0,Azithromycin
+1880,63,0,Unknown,11.5,174242,Staphylococcus,-,9.3,3.8,7.0,1.0,Azithromycin
+858,55,0,Unknown,13.9,121759,Salmonella typhi,Klebsiella pneumoniae,8.0,4.2,9.0,0.0,Azithromycin
+1594,21,0,High,14.2,180288,Salmonella typhi,-,9.1,3.5,7.0,0.0,Amoxicillin
+3606,60,1,Unknown,11.2,247329,Salmonella typhi,-,9.8,4.8,8.0,0.0,Azithromycin
+5575,38,0,Unknown,24.43713135,126804,Staphylococcus,Klebsiella pneumoniae,9.4,3.9,6.0,0.0,Ceftriaxone
+4037,34,0,Moderate,10.4,227434,Staphylococcus,Klebsiella pneumoniae,8.9,4.2,6.0,1.0,Azithromycin
+5432,18,0,Low,10.9,188457,Salmonella typhi,Klebsiella pneumoniae,8.8,3.7,13.0,1.0,Azithromycin
+3774,51,0,Low,10.4,292860,Staphylococcus,Escherichia coli,9.4,3.7,10.0,1.0,Azithromycin
+2539,55,1,Low,12.1,190759,Escherichia coli,Escherichia coli,8.8,8.560911367,10.0,0.0,Ceftriaxone
+5287,32,1,Low,13.7,159786,Salmonella typhi,Klebsiella pneumoniae,8.5,4.4,8.0,1.0,Amoxicillin
+4031,34,0,High,13.8,139590,Escherichia coli,Escherichia coli,8.5,4.4,6.0,0.0,Amoxicillin
+5417,33,1,Low,13.8,264150,Unknown,Escherichia coli,8.9,4.2,8.0,0.0,Amoxicillin
+274,51,0,Low,10.4,292860,Staphylococcus,Escherichia coli,9.4,3.7,14.0,1.0,Azithromycin
+1680,18,1,High,12.4,207917,Salmonella typhi,Escherichia coli,9.3,4.0,13.0,1.0,Azithromycin
+234,23,0,Moderate,14.0,195962,Escherichia coli,Escherichia coli,8.5,4.8,6.0,1.0,Amoxicillin
+2542,58,1,Moderate,12.0,179443,Escherichia coli,Escherichia coli,9.5,4.1,9.0,1.0,Ceftriaxone
+1570,34,1,Low,11.0,299040,Staphylococcus,-,9.9,4.0,12.0,1.0,Ceftriaxone
+3476,53,1,Low,14.1,125629,Salmonella typhi,Escherichia coli,8.6,4.9,6.0,0.0,Amoxicillin
+1587,67,1,Moderate,13.2,143442,Unknown,Escherichia coli,9.6,4.7,10.0,0.0,Azithromycin
+5262,24,1,Low,11.1,290878,Staphylococcus,Escherichia coli,3.872859344,4.7,8.0,0.0,Amoxicillin
+5109,29,0,Unknown,10.2,281529,Staphylococcus,Escherichia coli,9.4,3.7,15.0,1.0,Amoxicillin
+5622,33,0,Low,11.0,141738,Escherichia coli,Klebsiella pneumoniae,8.6,4.7,5.0,0.0,Ceftriaxone
+3960,64,0,Moderate,12.1,188483,Escherichia coli,-,9.7,4.2,13.0,1.0,Ceftriaxone
+1113,26,0,Low,12.9,286100,Salmonella typhi,Klebsiella pneumoniae,9.2,4.5,9.0,0.0,Amoxicillin
+3123,18,0,Moderate,11.7,228923,Salmonella typhi,Escherichia coli,8.7,4.2,10.0,0.0,Azithromycin
+5314,51,1,Moderate,14.7,220513,Staphylococcus,Escherichia coli,8.2,3.9,11.0,1.0,Amoxicillin
+1512,64,1,Unknown,13.8,168887,Staphylococcus,Escherichia coli,8.7,4.9,8.0,1.0,Azithromycin
+2793,43,1,High,14.2,148321,Staphylococcus,Escherichia coli,9.0,4.8,8.0,1.0,Azithromycin
+4764,58,1,Moderate,13.3,200716,Escherichia coli,Escherichia coli,9.7,4.3,9.0,1.0,Azithromycin
+5698,24,1,Moderate,13.5,172544,Staphylococcus,-,9.9,4.1,13.0,0.0,Amoxicillin
+2112,38,1,Moderate,13.5,210954,Salmonella typhi,Escherichia coli,9.3,4.4,5.0,0.0,Azithromycin
+5444,68,1,Low,10.5,142428,Staphylococcus,Escherichia coli,8.6,4.2,8.0,0.0,Amoxicillin
+155,36,1,High,10.8,219905,Escherichia coli,Klebsiella pneumoniae,9.1,4.8,6.0,0.0,Ceftriaxone
+442,32,1,High,13.4,224017,Escherichia coli,Escherichia coli,9.6,4.0,9.0,0.0,Amoxicillin
+1319,20,1,Low,11.8,245572,Escherichia coli,-,9.4,4.9,10.0,1.0,Amoxicillin
+4961,18,1,Unknown,11.4,258530,Unknown,Escherichia coli,8.9,4.3,7.0,1.0,Azithromycin
+5308,60,1,High,11.4,258260,Escherichia coli,Klebsiella pneumoniae,8.8,4.0,6.0,1.0,Ceftriaxone
+972,68,1,High,12.2,198767,Salmonella typhi,Klebsiella pneumoniae,8.1,4.1,14.0,0.0,Ceftriaxone
+4697,22,1,Moderate,12.2,170104,Staphylococcus,Escherichia coli,9.633383302,4.1,14.0,1.0,Amoxicillin
+5756,31,0,Low,10.6,251934,Unknown,Escherichia coli,9.8,4.1,8.0,0.0,Azithromycin
+2137,68,0,Low,13.9,173171,Escherichia coli,Escherichia coli,8.7,4.1,9.0,1.0,Ceftriaxone
+1525,29,0,Unknown,11.5,226715,Escherichia coli,Escherichia coli,0.057605049,4.2,10.0,0.0,Amoxicillin
+1655,36,1,High,10.8,219905,Escherichia coli,Klebsiella pneumoniae,9.1,4.8,10.0,0.0,Ceftriaxone
+5604,28,0,Low,10.9,232128,Salmonella typhi,Escherichia coli,8.3,4.5,12.0,0.0,Amoxicillin
+4677,70,1,Unknown,14.5,251881,Staphylococcus,Escherichia coli,8.6,4.3,6.0,1.0,Ceftriaxone
+1742,38,0,High,14.5,161744,Staphylococcus,Klebsiella pneumoniae,9.9,3.8,15.0,1.0,Azithromycin
+4920,24,1,Moderate,13.6,145376,Escherichia coli,-,8.3,4.5,10.0,1.0,Amoxicillin
+4510,24,1,Moderate,13.2,162206,Escherichia coli,Klebsiella pneumoniae,9.3,4.2,6.0,1.0,Ceftriaxone
+1930,18,0,Moderate,13.5,223949,Staphylococcus,-,9.4,4.4,12.0,0.0,Azithromycin
+5701,48,1,Moderate,10.9,282723,Escherichia coli,Escherichia coli,9.6,3.8,13.0,1.0,Azithromycin
+3670,24,0,Moderate,14.7,203401,Salmonella typhi,-,8.0,3.8,14.0,0.0,Ceftriaxone
+1666,23,0,Low,14.0,129476,Staphylococcus,Escherichia coli,9.0,5.0,10.0,1.0,Azithromycin
+2687,36,1,Low,11.1,224202,Salmonella typhi,-,8.8,3.9,15.0,1.0,Azithromycin
+2192,67,0,Moderate,12.0,268578,Staphylococcus,Klebsiella pneumoniae,10.0,4.3,5.0,1.0,Azithromycin
+3710,57,1,High,11.2,152117,Escherichia coli,Escherichia coli,9.3,4.2,15.0,1.0,Azithromycin
+4136,55,1,Low,11.1,232215,Staphylococcus,Klebsiella pneumoniae,8.0,8.535392604,8.0,1.0,Azithromycin
+5708,52,0,Unknown,13.9,146470,Staphylococcus,Escherichia coli,8.9,3.7,6.0,1.0,Azithromycin
+1764,58,1,Unknown,13.3,200716,Escherichia coli,Escherichia coli,9.7,4.3,9.0,1.0,Azithromycin
+3063,66,0,Moderate,12.6,157676,Staphylococcus,Klebsiella pneumoniae,9.2,4.2,13.0,1.0,Ceftriaxone
+5430,18,0,Unknown,13.5,223949,Staphylococcus,-,9.4,4.4,12.0,0.0,Azithromycin
+4158,70,1,Low,22.260533,283006,Staphylococcus,Klebsiella pneumoniae,9.3,10.14168434,8.0,0.0,Azithromycin
+3877,59,0,High,13.7,218477,Salmonella typhi,Escherichia coli,9.1,4.0,11.0,1.0,Amoxicillin
+3732,40,1,Unknown,11.9,191388,Escherichia coli,-,8.9,4.4,10.0,1.0,Amoxicillin
+4014,19,0,Low,13.9,229204,Staphylococcus,-,9.6,5.0,12.0,0.0,Ceftriaxone
+2294,22,1,Low,14.4,233424,Escherichia coli,-,9.3,3.7,14.0,1.0,Ceftriaxone
+5254,24,1,High,14.3,182136,Escherichia coli,Klebsiella pneumoniae,9.7,3.9,10.0,0.0,Amoxicillin
+1072,28,0,High,14.0,251367,Staphylococcus,Klebsiella pneumoniae,8.8,3.8,9.0,1.0,Azithromycin
+1641,30,0,High,11.9,292256,Staphylococcus,Klebsiella pneumoniae,9.0,3.8,10.0,0.0,Azithromycin
+4644,58,1,Moderate,13.6,250807,Escherichia coli,-,8.9,3.7,14.0,0.0,Ceftriaxone
+2035,52,1,Moderate,14.0,137039,Escherichia coli,Escherichia coli,8.6,3.9,13.0,0.0,Azithromycin
+2081,42,0,Moderate,11.8,241035,Escherichia coli,Klebsiella pneumoniae,8.2,4.8,6.0,0.0,Ceftriaxone
+3070,34,1,Low,11.0,299040,Unknown,-,9.9,9.159195301,12.0,1.0,Ceftriaxone
+2114,47,0,High,11.1,228631,Escherichia coli,Klebsiella pneumoniae,9.3,3.9,6.0,0.0,Amoxicillin
+3703,32,0,Low,11.1,171322,Escherichia coli,-,9.7,4.5,10.0,1.0,Ceftriaxone
+4339,53,0,Low,13.7,157167,Salmonella typhi,-,9.9,3.8,10.0,0.0,Ceftriaxone
+4522,20,1,Low,14.2,232404,Staphylococcus,Escherichia coli,6.101331741,3.8,7.0,1.0,Ceftriaxone
+2628,31,1,Moderate,11.6,203732,Unknown,Klebsiella pneumoniae,8.0,3.9,11.0,1.0,Ceftriaxone
+1711,57,0,High,10.5,151932,Escherichia coli,-,10.0,3.7,10.0,0.0,Azithromycin
+80,62,0,Low,12.6,179031,Staphylococcus,-,38.10641811,4.3,8.0,1.0,Ceftriaxone
+5536,48,0,Unknown,12.1,213106,Escherichia coli,-,8.7,4.4,14.0,0.0,Ceftriaxone
+446,40,0,Low,20.90610657,177798,Unknown,Klebsiella pneumoniae,9.4,4.7,7.0,0.0,Amoxicillin
+5207,60,0,Moderate,10.6,256250,Staphylococcus,Escherichia coli,0.831625232,4.9,8.0,0.0,Azithromycin
+5029,63,0,High,11.3,138504,Escherichia coli,-,8.0,3.7,15.0,1.0,Azithromycin
+2394,58,0,High,11.5,165463,Escherichia coli,-,9.9,4.7,14.0,0.0,Ceftriaxone
+4118,32,1,Low,10.5,256889,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,6.0,1.0,Amoxicillin
+5560,40,1,High,14.0,240563,Escherichia coli,Klebsiella pneumoniae,8.0,4.6,11.0,0.0,Ceftriaxone
+403,61,0,Moderate,10.9,185690,Staphylococcus,-,8.6,4.0,10.0,1.0,Amoxicillin

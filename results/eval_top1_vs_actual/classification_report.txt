@@ -1,0 +1,16 @@
+CLASSIFICATION REPORT: Top1 Drug vs Actual Drug
+
+Accuracy : 0.3719
+Precision: 0.3772
+Recall   : 0.3719
+F1-score : 0.3551
+
+              precision    recall  f1-score   support
+
+ Amoxicillin       0.41      0.20      0.27       437
+Azithromycin       0.38      0.57      0.46       465
+ Ceftriaxone       0.34      0.33      0.33       394
+
+    accuracy                           0.37      1296
+   macro avg       0.38      0.37      0.35      1296
+weighted avg       0.38      0.37      0.36      1296

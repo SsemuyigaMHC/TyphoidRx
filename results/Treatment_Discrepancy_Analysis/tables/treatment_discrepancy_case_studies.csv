@@ -1,0 +1,11 @@
+Patient_ID,Predicted_Treatment_Duration,Predicted_Resistance_Proxy_Score,Predicted_Typhoid_Probability,Actual_Drug,Treatment_Outcome,Original_Treatment_Duration,Top1_Drug,Top1_Probability,Top2_Drug,Top2_Probability,Patient ID,Medication_Amoxicillin,Medication_Azithromycin,Medication_Ceftriaxone,Actual_Probability,Top1_Better,Delta_Probability,Treatment Outcome,Age,Gender
+446,9.434427,9.688166,0.020681122,Amoxicillin,0.0,7.0,Azithromycin,0.87489057,Ceftriaxone,0.80881953,446,True,False,False,0.20194228,True,0.6729482900651169,0.0,40,0
+946,7.4250417,7.4615216,0.0062732818,Amoxicillin,0.0,7.0,Azithromycin,0.7452935,Ceftriaxone,0.63056,946,True,False,False,0.09246986,True,0.6528236364064217,0.0,40,0
+3419,7.869246,8.996784,0.9379011,Amoxicillin,0.0,10.0,Azithromycin,0.5754192,Ceftriaxone,0.26809865,3419,True,False,False,0.03647035,True,0.5389488501219273,0.0,32,1
+5415,13.532802,13.590206,0.0019092781,Amoxicillin,0.0,15.0,Ceftriaxone,0.59718263,Azithromycin,0.5192838,5415,True,False,False,0.0737279,True,0.523454731700306,0.0,41,1
+1915,13.532802,13.590206,0.0019092781,Amoxicillin,0.0,15.0,Ceftriaxone,0.59718263,Azithromycin,0.5192838,1915,True,False,False,0.0737279,True,0.523454731700306,0.0,41,1
+3415,13.532802,13.590206,0.021340378,Amoxicillin,0.0,10.0,Ceftriaxone,0.59718263,Azithromycin,0.5192838,3415,True,False,False,0.0737279,True,0.523454731700306,0.0,41,1
+2591,9.259928,9.24394,0.0102196075,Amoxicillin,0.0,9.0,Azithromycin,0.71033055,Ceftriaxone,0.6421971,2591,True,False,False,0.20345612,True,0.5068744312971115,0.0,42,1
+591,9.259928,9.24394,0.0102196075,Amoxicillin,0.0,9.0,Azithromycin,0.71033055,Ceftriaxone,0.6421971,591,True,False,False,0.20345612,True,0.5068744312971115,0.0,42,1
+2091,9.259928,9.24394,0.0102196075,Amoxicillin,0.0,9.0,Azithromycin,0.71033055,Ceftriaxone,0.6421971,2091,True,False,False,0.20345612,True,0.5068744312971115,0.0,42,1
+1591,9.259928,9.24394,0.0102196075,Amoxicillin,0.0,9.0,Azithromycin,0.71033055,Ceftriaxone,0.6421971,1591,True,False,False,0.20345612,True,0.5068744312971115,0.0,42,1

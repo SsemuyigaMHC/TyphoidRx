@@ -1,0 +1,24 @@
+=== Match Type Analysis ===
+Total Patients: 1296
+
+No Match:
+  Count: 461
+  Success Rate: 13.02%
+  Predicted_Treatment_Duration: Mean = 9.99, Std = 2.54
+  Predicted_Resistance_Proxy_Score: Mean = 9.10, Std = 3.77
+  Original_Treatment_Duration: Mean = 9.78, Std = 2.88
+
+Top1 Match:
+  Count: 482
+  Success Rate: 88.59%
+  Predicted_Treatment_Duration: Mean = 9.98, Std = 2.72
+  Predicted_Resistance_Proxy_Score: Mean = 9.09, Std = 3.75
+  Original_Treatment_Duration: Mean = 9.90, Std = 3.03
+
+Top2 Match:
+  Count: 353
+  Success Rate: 60.91%
+  Predicted_Treatment_Duration: Mean = 9.82, Std = 2.68
+  Predicted_Resistance_Proxy_Score: Mean = 8.55, Std = 4.09
+  Original_Treatment_Duration: Mean = 9.84, Std = 2.88
+

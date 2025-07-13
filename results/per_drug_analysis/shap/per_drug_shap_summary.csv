@@ -1,0 +1,4 @@
+Drug,Avg_Top1_Probability,Top_Features,Avg_SHAP_Values
+Ceftriaxone,0.6198,"Platelet Count, Age, Hemoglobin (g/dL), Calcium (mg/dL), Potassium (mmol/L), Medication_Amoxicillin, Severity_Score, Suspected_Typhoid, Sex_Code, Culture_Type","0.3711, 0.2150, 0.0678, -0.0437, 0.0186, 0.0202, -0.0075, 0.0423, -0.0058, 0.0175"
+Azithromycin,0.5663,"Platelet Count, Age, Potassium (mmol/L), Hemoglobin (g/dL), Calcium (mg/dL), Medication_Azithromycin, Culture_Type, Severity_Score, Suspected_Typhoid, Medication_Amoxicillin","0.0217, 0.0466, 0.0444, 0.0133, 0.0536, 0.0385, -0.0084, 0.0158, -0.0341, 0.0096"
+Amoxicillin,0.4968,"Platelet Count, Age, Potassium (mmol/L), Hemoglobin (g/dL), Calcium (mg/dL), Severity_Score, Sex_Code, Suspected_Typhoid, Culture_Type, SimMet_MembraneInstability","-0.0282, -0.0044, -0.1560, -0.0779, 0.0236, 0.0038, 0.0063, 0.0784, -0.0064, 0.0159"

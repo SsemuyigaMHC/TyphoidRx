@@ -1,0 +1,5 @@
+=== Treatment Duration Regression ===
+R2:   0.8092
+MAE:  0.7776
+MSE:  1.6423
+RMSE: 1.2815

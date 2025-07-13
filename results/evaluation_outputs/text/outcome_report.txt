@@ -1,0 +1,11 @@
+=== Outcome Model ===
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       594
+         1.0       0.99      1.00      0.99       702
+
+    accuracy                           0.99      1296
+   macro avg       0.99      0.99      0.99      1296
+weighted avg       0.99      0.99      0.99      1296
+
+ROC AUC: 0.9996
