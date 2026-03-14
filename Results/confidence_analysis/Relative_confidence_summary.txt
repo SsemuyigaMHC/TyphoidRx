@@ -1,0 +1,7 @@
+Relative_Confidence-Aware Drug Recommendation Summary
+
+Total patients analyzed: 415
+Threshold used: 0.01 (Top1 - Top2 probability)
+
+Confident: 302 (72.77%)
+Ambiguous: 113 (27.23%)

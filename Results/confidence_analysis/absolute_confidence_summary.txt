@@ -1,0 +1,5 @@
+Absolute Confidence Summary (Top1_Probability ≥ 0.5)
+
+Total patients: 415
+Confident: 242 (58.31%)
+Ambiguous: 173 (41.69%)
