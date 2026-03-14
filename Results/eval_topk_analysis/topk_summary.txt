@@ -1,0 +1,5 @@
+Match Analysis (Top1 vs Top2 vs None)
+========================================
+Top1 Match: 154 cases (37.11%)
+No Match: 144 cases (34.70%)
+Top2 Match: 117 cases (28.19%)
