@@ -21,7 +21,7 @@ AI-driven model that predicts effective typhoid treatment, expected healing time
 Results
 
 Confidence Analysis
-![image]([https://github.com/SsemuyigaMHC/TyphoidRx/blob/main/results/confidence_analysis/confidence_analysis_grid.png](https://github.com/SsemuyigaMHC/TyphoidRx/blob/main/Results/confidence_analysis/confidence_analysis_grid.png))
+![image](https://github.com/SsemuyigaMHC/TyphoidRx/blob/main/Results/confidence_analysis/confidence_analysis_grid.png)
 
 Top K analysis
 ![image](https://github.com/SsemuyigaMHC/TyphoidRx/blob/main/results/eval_topk_analysis/match_type_outcome_stacked_bar.png)
