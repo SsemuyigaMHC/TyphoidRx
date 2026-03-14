@@ -1,0 +1,20 @@
+Culture_Type	1.3845372
+Potassium (mmol/L)	0.30348402
+Hemoglobin (g/dL)	0.2554697
+Platelet Count	0.23524752
+Age	0.19685143
+Calcium (mg/dL)	0.15091972
+Medication_Ceftriaxone	0.14120556
+Intensity_Score	0.11367272
+Suspected_Typhoid	0.07543601
+SimMet_EnergyDisruption	0.041111443
+Medication_Amoxicillin	0.038015716
+Treatment Outcome	0.03795603
+Sex_Code	0.033965014
+Medication_Azithromycin	0.024217809
+Salmonella_Presence	0.022132222
+SimMet_MembraneInstability	0.0073992372
+SimMet_HypoxiaStress	0.0
+SimMet_ElectrolyteDisruption	0.0
+SimMet_CatabolicBurst	0.0
+SimMet_InflammatoryStress	0.0

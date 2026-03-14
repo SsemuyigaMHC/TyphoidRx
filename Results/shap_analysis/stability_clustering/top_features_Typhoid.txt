@@ -1,0 +1,20 @@
+Severity_Score	1.3532633
+SimMet_EnergyDisruption	0.95732945
+Platelet Count	0.61405766
+Age	0.34936005
+Hemoglobin (g/dL)	0.3245283
+SimMet_CatabolicBurst	0.32156345
+Resistance_Proxy_Score	0.2908871
+Normalized_Duration	0.24966516
+SimMet_HypoxiaStress	0.24574807
+Potassium (mmol/L)	0.23458262
+Calcium (mg/dL)	0.23076652
+Culture_Concordance	0.1832888
+Treatment Duration Clean	0.13938992
+Culture_Type	0.12543933
+Sex_Code	0.07271386
+Treatment Outcome	0.05744342
+Platelet_Status	0.05723731
+SimMet_MembraneInstability	0.020920184
+SimMet_ElectrolyteDisruption	0.0
+SimMet_InflammatoryStress	0.0
