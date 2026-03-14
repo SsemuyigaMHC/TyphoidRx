@@ -1,0 +1,5 @@
+=== Resistance Proxy Regression ===
+R2:   0.6280
+MAE:  1.8058
+MSE:  5.1829
+RMSE: 2.2766

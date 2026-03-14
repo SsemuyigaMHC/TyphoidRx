@@ -1,0 +1,11 @@
+=== Typhoid Model ===
+              precision    recall  f1-score   support
+
+           0       0.81      0.89      0.85       237
+           1       0.83      0.72      0.77       178
+
+    accuracy                           0.82       415
+   macro avg       0.82      0.81      0.81       415
+weighted avg       0.82      0.82      0.82       415
+
+ROC AUC: 0.9045
