@@ -34,3 +34,6 @@ Match Analysis: Match-based evaluation of treatment recommendation performance. 
 
 Risk Stratification: Resistance risk stratification across patient quartiles (Q1-Q4) based on predicted resistance proxy scores. Patients were grouped from lowest risk (Q1) to highest risk (Q4). (A) Mean resistance proxy score within each quartile. (B) Distribution of predicted resistance proxy scores across all patients. ![image](https://github.com/SsemuyigaMHC/TyphoidRx/blob/main/Results/Figures/Figure%2012.png)
 
+
+Cite 
+Ssemuyiga C, Saru E, Aleshinloye YA. Machine learning-driven decision support for antibiotic optimization in typhoid fever based on patient profiles. BMC Med Inform Decis Mak. 2026 May 12. doi: 10.1186/s12911-026-03528-8. Epub ahead of print. PMID: 42121141.
